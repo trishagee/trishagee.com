@@ -1,0 +1,34 @@
+{{ $baseurl := .Site.BaseUrl }}
+<div>
+    <section id="datecount">
+        <h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
+        <h5 id="wc"> {{ .FuzzyWordCount }} Words </h5>
+    </section>
+    <ul id="categories">
+        {{ range .Params.topics }}
+        <li><a href="{{ $baseurl }}/topics/{{ . | urlize }}">{{ . }}</a></li>
+        {{ end }}
+    </ul>
+    <ul id="tags">
+        {{ range .Params.tags }}
+        <li><a href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a></li>
+        {{ end }}
+    </ul>
+</div>
+
+<div>
+    <section id="prev">
+        &nbsp;{{if .Prev}}<a class="previous" href="{{.Prev.Permalink}}"><i class="icon-arrow-left"></i> {{.Prev.Title}}</a><br>{{end}}
+    </section>
+    <section id="next">
+        &nbsp;{{if .Next}}<a class="next" href="{{.Next.Permalink}}">{{.Next.Title}} <i class="icon-arrow-right"></i></a>{{end}}
+    </section>
+</div>
+
+<div>
+    <section id="author">
+        <h4>About the Author:</h4>
+        Trisha is a developer for <a href="http://mongodb.com">MongoDB Inc.</a> and a leader of the Sevilla Java User Group, she believes we
+        shouldn't all have to make the same mistakes again and again.
+    </section>
+</div>
