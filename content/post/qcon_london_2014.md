@@ -1,6 +1,5 @@
 {
-  "disqus_url" : "http://trishagee.com/post/qcon_london_2014/",
-  "disqus_identifier" : "1912 http://trishagee.com/?p=1912",
+  "disqus_url" : "http://trishagee.github.io/post/qcon_london_2014/",
   "disqus_title" : "QCon London 2014",
   "Title": "QCon London 2014",
   "Description": "A summary of my experiences at QCon London 2014, in particular the Not Only Java track",
