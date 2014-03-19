@@ -1,9 +1,0 @@
-{
- "disqus_url" : "http://trishagee.github.io/post/what_is_the_disruptor/",
- "disqus_title" : "What is the Disruptor",
- "Title": "What is the Disruptor",
- "Pubdate": "2011-07-12",
- "Slug": "what_is_the_disruptor",
- "Section": "post"
-}
-I'm going to step back a bit from the detail I've been posting about the Disruptor. &nbsp;We thought our initial audience was people who had heard of it already, maybe via the QCon presentation, or people who were already in the low-latency, high-performance space.<br /><br />With all the amazing noise around the Disruptor, on twitter, on various blogs, and especially with Martin Fowler writing his article, the number one frequently asked question is now "What is it?".<br /><br />I will attempt to answer this, and in doing so will expose that I am not a high performance guru, nor am I an architect. &nbsp;I am a lowly coding monkey. &nbsp;So I will explain it in a way that makes sense for me.<br /><br />It's sort of a hybrid between a data structure and an architecture. &nbsp;Well, actually it's a framework I guess, but if I think of it as a magic data structure that takes care of things for you when it's wired up, then I find it sits easier in my brain.<br /><br />But what does it do???<br /><br />You could use it where you would usually use a queue. &nbsp;You will probably find that simply replacing your queues with a Disruptor will give you performance improvements simply because you won't have the write contention you have with a queue. &nbsp;I have no idea if this is true in a single-threaded environment.<br /><br /><span class="Apple-style-span" style="-webkit-border-horizontal-spacing: 2px; -webkit-border-vertical-spacing: 2px; border-collapse: collapse; color: #333333; font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 13px; line-height: 18px;">Finding out the class of problems that can be solved by the disruptor might be as evolutionary as the design.</span>
