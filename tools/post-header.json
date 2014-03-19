@@ -1,0 +1,10 @@
+{
+    "disqus_url" : "http://trishagee.github.io/post/{slug}",
+    "disqus_title" : "{title}",
+    "Title": "{title}",
+    "Pubdate": "yyyy-MM-dd",
+    "Keywords": ["{tag}"],
+    "Tags": ["{tag}"],
+    "Slug": "{slug}",
+    "Section": "post"
+}
