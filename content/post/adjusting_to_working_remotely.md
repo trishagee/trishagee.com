@@ -6,15 +6,10 @@
  "Slug": "adjusting_to_working_remotely",
  "Section": "post"
 }
-<div style="float: left; margin-right: 10px;">
-<script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script>
-<script type="text/javascript"> var dzone_url = 'http://agile.dzone.com/articles/adjusting-working-remotely';</script>
-<script type="text/javascript">var dzone_title = 'Adjusting to Working Remotely';</script>
-<script type="text/javascript">var dzone_blurb = '[description]';</script>
-<script type="text/javascript">var dzone_style = '1';</script>
-</div>
-<div>
-One of the most obvious differences I faced when I moved from <a href="http://www.lmax.com/">LMAX</a> to <a href="http://www.10gen
+{{% dzone url=http://agile.dzone.com/articles/adjusting-working-remotely title="Adjusting to Working Remotely" %}}
+
+
+<div>One of the most obvious differences I faced when I moved from <a href="http://www.lmax.com/">LMAX</a> to <a href="http://www.10gen
 .com/">10gen</a> were the working conditions.  I don't mean like being deep underground in some dangerous situation vs being pampered by
 beautiful slave boys and girls.  What I mean is that the working practices at one company necessitated being in the office for core
 hours, and at the other flexible hours and remote-working are practically mandatory.</div>
