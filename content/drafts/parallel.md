@@ -1,0 +1,9 @@
+{
+ "disqus_url" : "http://trishagee.github.io/post/parallel/",
+ "disqus_title" : "parallel",
+ "Title": "parallel",
+ "Pubdate": "2011-10-05",
+ "Slug": "parallel",
+ "Section": "post"
+}
+Version:1.0 StartHTML:0000000167 EndHTML:0000002012 StartFragment:0000000454 EndFragment:0000001996    	 	 	 	   <br /><div style="margin-bottom: 0cm;">Most parallel programs are crummy</div><div style="margin-bottom: 0cm;">We've got the hardware, we've got the software, so why are they still rubbish?</div><div style="margin-bottom: 0cm;">It's in our brains, and how they work</div><div style="margin-bottom: 0cm;">we can't keep everything in our heads at the same time – e.g. false path and true path</div><div style="margin-bottom: 0cm;">have to think in 3 dimensions</div><div style="margin-bottom: 0cm;">magic number 7 plus or minus 2</div><div style="margin-bottom: 0cm;">or 4 chunks</div><div style="margin-bottom: 0cm;">how much harder is parallel programming?</div><div style="margin-bottom: 0cm;">Who is this guy?</div><div style="margin-bottom: 0cm;">We need to invent wings for parallel programming</div><div style="margin-bottom: 0cm;">tools or diageamming to illustrate things in parallel</div><div style="margin-bottom: 0cm;">No language equivalent of musical harmony</div><div style="margin-bottom: 0cm;">language / stories not well suited to parallel</div><div style="margin-bottom: 0cm;">the disruptor is good because it allows you to think about things serially?</div><div style="margin-bottom: 0cm;">Associations.  Logic is association poor</div><div style="margin-bottom: 0cm;">x tells us nothing about the variable</div><div style="margin-bottom: 0cm;">put the saddle on the frog.  Squish</div><div style="margin-bottom: 0cm;">Map things to natural things – birth, reproduction, death.  Circle of life</div><div style="margin-bottom: 0cm;">Avian computing project</div><div style="margin-bottom: 0cm;"><br /></div>
