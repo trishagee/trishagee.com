@@ -3,6 +3,8 @@
  "disqus_title" : "Gender Stereotyping",
  "Title": "Gender Stereotyping",
  "Pubdate": "2008-12-16",
+ "Keywords": ["gender", "links"],
+ "Tags": ["gender", "links"],
  "Slug": "gender_stereotyping",
  "Section": "post"
 }

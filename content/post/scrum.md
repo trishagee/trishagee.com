@@ -3,6 +3,8 @@
  "disqus_title" : "Scrum",
  "Title": "Scrum",
  "Pubdate": "2008-05-21",
+ "Keywords": ["scrum"],
+ "Tags": ["scrum"],
  "Slug": "scrum",
  "Section": "post"
 }

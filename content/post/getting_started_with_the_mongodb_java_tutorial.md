@@ -3,6 +3,8 @@
  "disqus_title" : "Getting started with the MongoDB Java Tutorial",
  "Title": "Getting started with the MongoDB Java Tutorial",
  "Pubdate": "2013-10-24",
+ "Keywords": [],
+ "Tags": [],
  "Slug": "getting_started_with_the_mongodb_java_tutorial",
  "Section": "post"
 }

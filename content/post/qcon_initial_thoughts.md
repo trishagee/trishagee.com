@@ -3,6 +3,8 @@
  "disqus_title" : "QCon: Initial thoughts",
  "Title": "QCon: Initial thoughts",
  "Pubdate": "2007-03-19",
+ "Keywords": ["in progress", "qcon london"],
+ "Tags": ["in progress", "qcon london"],
  "Slug": "qcon_initial_thoughts",
  "Section": "post"
 }

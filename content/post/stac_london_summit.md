@@ -3,6 +3,8 @@
  "disqus_title" : "STAC London Summit",
  "Title": "STAC London Summit",
  "Pubdate": "2011-06-12",
+ "Keywords": ["lmax", "conferences"],
+ "Tags": ["lmax", "conferences"],
  "Slug": "stac_london_summit",
  "Section": "post"
 }

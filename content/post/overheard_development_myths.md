@@ -3,6 +3,8 @@
  "disqus_title" : "Overheard: Development Myths",
  "Title": "Overheard: Development Myths",
  "Pubdate": "2012-06-16",
+ "Keywords": ["stereotypes", "domain driven design"],
+ "Tags": ["stereotypes", "domain driven design"],
  "Slug": "overheard_development_myths",
  "Section": "post"
 }

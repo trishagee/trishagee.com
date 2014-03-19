@@ -3,6 +3,8 @@
  "disqus_title" : "Cyclist tribes",
  "Title": "Cyclist tribes",
  "Pubdate": "2011-04-26",
+ "Keywords": ["non-tech", "cycling"],
+ "Tags": ["non-tech", "cycling"],
  "Slug": "cyclist_tribes",
  "Section": "post"
 }

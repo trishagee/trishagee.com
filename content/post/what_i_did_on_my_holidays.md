@@ -3,6 +3,8 @@
  "disqus_title" : "What I Did On My Holidays",
  "Title": "What I Did On My Holidays",
  "Pubdate": "2011-08-13",
+ "Keywords": ["london", "photos", "non-tech"],
+ "Tags": ["london", "photos", "non-tech"],
  "Slug": "what_i_did_on_my_holidays",
  "Section": "post"
 }

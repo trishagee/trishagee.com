@@ -3,6 +3,8 @@
  "disqus_title" : "Job Hunting",
  "Title": "Job Hunting",
  "Pubdate": "2008-07-30",
+ "Keywords": ["jobs"],
+ "Tags": ["jobs"],
  "Slug": "job_hunting",
  "Section": "post"
 }

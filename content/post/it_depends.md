@@ -3,6 +3,8 @@
  "disqus_title" : "It Depends",
  "Title": "It Depends",
  "Pubdate": "2013-03-18",
+ "Keywords": ["java", "MongoDB", "design"],
+ "Tags": ["java", "MongoDB", "design"],
  "Slug": "it_depends",
  "Section": "post"
 }

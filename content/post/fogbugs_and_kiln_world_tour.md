@@ -3,6 +3,8 @@
  "disqus_title" : "FogBugs and Kiln World Tour",
  "Title": "FogBugs and Kiln World Tour",
  "Pubdate": "2011-01-18",
+ "Keywords": ["tools", "joel", "conferences"],
+ "Tags": ["tools", "joel", "conferences"],
  "Slug": "fogbugs_and_kiln_world_tour",
  "Section": "post"
 }

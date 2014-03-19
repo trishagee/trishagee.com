@@ -3,6 +3,8 @@
  "disqus_title" : "The Coalescing Ring Buffer",
  "Title": "The Coalescing Ring Buffer",
  "Pubdate": "2013-03-11",
+ "Keywords": ["open source", "lmax"],
+ "Tags": ["open source", "lmax"],
  "Slug": "the_coalescing_ring_buffer",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "JavaOne: The Problem With Women - A Technical Approach",
  "Title": "JavaOne: The Problem With Women - A Technical Approach",
  "Pubdate": "2012-10-04",
+ "Keywords": ["gender", "JavaOne12", "conferences"],
+ "Tags": ["gender", "JavaOne12", "conferences"],
  "Slug": "javaone_the_problem_with_women__a_technical_approach",
  "Section": "post"
 }

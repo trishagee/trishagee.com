@@ -3,6 +3,8 @@
  "disqus_title" : "Live at Last",
  "Title": "Live at Last",
  "Pubdate": "2010-10-31",
+ "Keywords": ["lmax"],
+ "Tags": ["lmax"],
  "Slug": "live_at_last",
  "Section": "post"
 }

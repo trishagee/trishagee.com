@@ -3,6 +3,8 @@
  "disqus_title" : "For those who might want to make the leap from Developer to Architect",
  "Title": "For those who might want to make the leap from Developer to Architect",
  "Pubdate": "2011-02-14",
+ "Keywords": [],
+ "Tags": [],
  "Slug": "for_those_who_might_want_to_make_the_leap_from_developer_to_architect",
  "Section": "post"
 }

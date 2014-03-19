@@ -3,6 +3,8 @@
  "disqus_title" : "Why We Shouldn't Target Women",
  "Title": "Why We Shouldn't Target Women",
  "Pubdate": "2011-11-20",
+ "Keywords": ["devoxx", "gender", "conferences"],
+ "Tags": ["devoxx", "gender", "conferences"],
  "Slug": "why_we_shouldnt_target_women",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "Why Open Source Your Secrets",
  "Title": "Why Open Source Your Secrets",
  "Pubdate": "2012-05-17",
+ "Keywords": ["presentations", "disruptor", "conferences"],
+ "Tags": ["presentations", "disruptor", "conferences"],
  "Slug": "why_open_source_your_secrets",
  "Section": "post"
 }

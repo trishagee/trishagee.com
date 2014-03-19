@@ -3,6 +3,8 @@
  "disqus_title" : "Apologies for the interruption to your service",
  "Title": "Apologies for the interruption to your service",
  "Pubdate": "2012-09-01",
+ "Keywords": [],
+ "Tags": [],
  "Slug": "apologies_for_the_interruption_to_your_service",
  "Section": "post"
 }

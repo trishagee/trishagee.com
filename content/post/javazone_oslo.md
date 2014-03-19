@@ -3,6 +3,8 @@
  "disqus_title" : "JavaZone, Oslo",
  "Title": "JavaZone, Oslo",
  "Pubdate": "2013-09-16",
+ "Keywords": [],
+ "Tags": [],
  "Slug": "javazone_oslo",
  "Section": "post"
 }

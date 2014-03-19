@@ -3,6 +3,8 @@
  "disqus_title" : "Interview by the Oracle Technology Network at Devoxx",
  "Title": "Interview by the Oracle Technology Network at Devoxx",
  "Pubdate": "2011-12-04",
+ "Keywords": ["video", "devoxx", "gender", "interview", "links"],
+ "Tags": ["video", "devoxx", "gender", "interview", "links"],
  "Slug": "interview_by_the_oracle_technology_network_at_devoxx",
  "Section": "post"
 }

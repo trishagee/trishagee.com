@@ -3,6 +3,8 @@
  "disqus_title" : "Kids These Days",
  "Title": "Kids These Days",
  "Pubdate": "2013-09-25",
+ "Keywords": ["kids"],
+ "Tags": ["kids"],
  "Slug": "kids_these_days",
  "Section": "post"
 }

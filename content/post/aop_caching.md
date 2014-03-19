@@ -3,6 +3,8 @@
  "disqus_title" : "AOP Caching",
  "Title": "AOP Caching",
  "Pubdate": "2008-04-14",
+ "Keywords": ["caching", "java 5", "spring", "aop"],
+ "Tags": ["caching", "java 5", "spring", "aop"],
  "Slug": "aop_caching",
  "Section": "post"
 }

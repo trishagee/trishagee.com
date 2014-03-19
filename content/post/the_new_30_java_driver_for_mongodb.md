@@ -3,6 +3,8 @@
  "disqus_title" : "The New 3.0 Java Driver for MongoDB",
  "Title": "The New 3.0 Java Driver for MongoDB",
  "Pubdate": "2013-09-09",
+ "Keywords": [],
+ "Tags": [],
  "Slug": "the_new_30_java_driver_for_mongodb",
  "Section": "post"
 }

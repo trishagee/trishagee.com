@@ -3,6 +3,8 @@
  "disqus_title" : "QCon London 2012",
  "Title": "QCon London 2012",
  "Pubdate": "2012-03-27",
+ "Keywords": ["london", "disruptor", "lmax", "qcon london", "conferences"],
+ "Tags": ["london", "disruptor", "lmax", "qcon london", "conferences"],
  "Slug": "qcon_london_2012",
  "Section": "post"
 }

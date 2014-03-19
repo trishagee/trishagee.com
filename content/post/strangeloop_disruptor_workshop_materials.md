@@ -3,6 +3,8 @@
  "disqus_title" : "Strangeloop Disruptor Workshop Materials",
  "Title": "Strangeloop Disruptor Workshop Materials",
  "Pubdate": "2012-09-26",
+ "Keywords": ["disruptor"],
+ "Tags": ["disruptor"],
  "Slug": "strangeloop_disruptor_workshop_materials",
  "Section": "post"
 }

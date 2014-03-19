@@ -3,6 +3,8 @@
  "disqus_title" : "Just Do Something",
  "Title": "Just Do Something",
  "Pubdate": "2012-12-18",
+ "Keywords": [],
+ "Tags": [],
  "Slug": "just_do_something",
  "Section": "post"
 }

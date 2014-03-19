@@ -3,6 +3,8 @@
  "disqus_title" : "Introduction to MongoDB and Big Data",
  "Title": "Introduction to MongoDB and Big Data",
  "Pubdate": "2014-01-23",
+ "Keywords": ["java", "MongoDB", "articles"],
+ "Tags": ["java", "MongoDB", "articles"],
  "Slug": "introduction_to_mongodb_and_big_data",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "Upcoming speaking events",
  "Title": "Upcoming speaking events",
  "Pubdate": "2012-02-01",
+ "Keywords": ["disruptor", "conferences"],
+ "Tags": ["disruptor", "conferences"],
  "Slug": "upcoming_speaking_events",
  "Section": "post"
 }

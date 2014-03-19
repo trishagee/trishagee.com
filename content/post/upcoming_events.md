@@ -3,6 +3,8 @@
  "disqus_title" : "Upcoming Events",
  "Title": "Upcoming Events",
  "Pubdate": "2012-09-01",
+ "Keywords": ["jax london", "JavaOne12", "conferences"],
+ "Tags": ["jax london", "JavaOne12", "conferences"],
  "Slug": "upcoming_events",
  "Section": "post"
 }

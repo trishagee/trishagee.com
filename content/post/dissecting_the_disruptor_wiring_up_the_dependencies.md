@@ -3,6 +3,8 @@
  "disqus_title" : "Dissecting the Disruptor: Wiring up the dependencies",
  "Title": "Dissecting the Disruptor: Wiring up the dependencies",
  "Pubdate": "2011-07-10",
+ "Keywords": ["java", "disruptor", "lmax", "disruptor-docs", "concurrency"],
+ "Tags": ["java", "disruptor", "lmax", "disruptor-docs", "concurrency"],
  "Slug": "dissecting_the_disruptor_wiring_up_the_dependencies",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "Spock: Data Driven Testing",
  "Title": "Spock: Data Driven Testing",
  "Pubdate": "2013-12-20",
+ "Keywords": ["java", "spock", "testing", "groovy"],
+ "Tags": ["java", "spock", "testing", "groovy"],
  "Slug": "spock_data_driven_testing",
  "Section": "post"
 }

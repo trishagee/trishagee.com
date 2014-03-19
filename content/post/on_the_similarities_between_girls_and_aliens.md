@@ -3,6 +3,8 @@
  "disqus_title" : "On The Similarities Between Girls And Aliens",
  "Title": "On The Similarities Between Girls And Aliens",
  "Pubdate": "2011-10-28",
+ "Keywords": ["JavaOne11", "gender", "conferences"],
+ "Tags": ["JavaOne11", "gender", "conferences"],
  "Slug": "on_the_similarities_between_girls_and_aliens",
  "Section": "post"
 }

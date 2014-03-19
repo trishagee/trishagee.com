@@ -3,6 +3,8 @@
  "disqus_title" : "YOW",
  "Title": "YOW",
  "Pubdate": "2013-12-23",
+ "Keywords": ["presentations", "YOW", "conferences"],
+ "Tags": ["presentations", "YOW", "conferences"],
  "Slug": "yow",
  "Section": "post"
 }

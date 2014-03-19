@@ -3,6 +3,8 @@
  "disqus_title" : "Why is it News when a woman becomes CEO?",
  "Title": "Why is it News when a woman becomes CEO?",
  "Pubdate": "2014-01-20",
+ "Keywords": ["gender"],
+ "Tags": ["gender"],
  "Slug": "why_is_it_news_when_a_woman_becomes_ceo",
  "Section": "post"
 }

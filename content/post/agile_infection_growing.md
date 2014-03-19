@@ -3,6 +3,8 @@
  "disqus_title" : "Agile Infection Growing",
  "Title": "Agile Infection Growing",
  "Pubdate": "2007-03-22",
+ "Keywords": ["agile", "todo", "story cards", "links"],
+ "Tags": ["agile", "todo", "story cards", "links"],
  "Slug": "agile_infection_growing",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "JavaOne: Initial Observations",
  "Title": "JavaOne: Initial Observations",
  "Pubdate": "2011-10-04",
+ "Keywords": ["java", "disruptor", "lmax", "JavaOne11", "conferences"],
+ "Tags": ["java", "disruptor", "lmax", "JavaOne11", "conferences"],
  "Slug": "javaone_initial_observations",
  "Section": "post"
 }

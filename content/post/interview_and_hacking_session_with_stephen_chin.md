@@ -3,6 +3,8 @@
  "disqus_title" : "Interview and Hacking session with Stephen Chin",
  "Title": "Interview and Hacking session with Stephen Chin",
  "Pubdate": "2012-10-31",
+ "Keywords": ["video", "java", "agile", "interview", "code"],
+ "Tags": ["video", "java", "agile", "interview", "code"],
  "Slug": "interview_and_hacking_session_with_stephen_chin",
  "Section": "post"
 }

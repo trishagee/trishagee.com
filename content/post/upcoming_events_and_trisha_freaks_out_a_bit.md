@@ -3,6 +3,8 @@
  "disqus_title" : "Upcoming Events (and Trisha Freaks Out A Bit)",
  "Title": "Upcoming Events (and Trisha Freaks Out A Bit)",
  "Pubdate": "2013-02-15",
+ "Keywords": [],
+ "Tags": [],
  "Slug": "upcoming_events_and_trisha_freaks_out_a_bit",
  "Section": "post"
 }

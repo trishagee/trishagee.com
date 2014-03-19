@@ -3,6 +3,8 @@
  "disqus_title" : "My first public appearance",
  "Title": "My first public appearance",
  "Pubdate": "2011-05-30",
+ "Keywords": ["presentations", "events", "ljc"],
+ "Tags": ["presentations", "events", "ljc"],
  "Slug": "my_first_public_appearance",
  "Section": "post"
 }

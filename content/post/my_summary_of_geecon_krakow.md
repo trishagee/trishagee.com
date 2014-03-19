@@ -3,6 +3,8 @@
  "disqus_title" : "My Summary of GeeCON, Krakow",
  "Title": "My Summary of GeeCON, Krakow",
  "Pubdate": "2013-05-22",
+ "Keywords": ["conferences"],
+ "Tags": ["conferences"],
  "Slug": "my_summary_of_geecon_krakow",
  "Section": "post"
 }

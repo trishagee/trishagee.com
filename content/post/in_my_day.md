@@ -3,6 +3,8 @@
  "disqus_title" : "In my day...",
  "Title": "In my day...",
  "Pubdate": "2014-03-03",
+ "Keywords": ["web development", "java", "gwt", "jsp", "ui", "html", "angular.js", "css"],
+ "Tags": ["web development", "java", "gwt", "jsp", "ui", "html", "angular.js", "css"],
  "Slug": "in_my_day",
  "Section": "post"
 }

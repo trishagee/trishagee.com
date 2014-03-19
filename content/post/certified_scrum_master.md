@@ -3,6 +3,8 @@
  "disqus_title" : "Certified Scrum Master",
  "Title": "Certified Scrum Master",
  "Pubdate": "2008-04-10",
+ "Keywords": ["training", "advice", "scrum"],
+ "Tags": ["training", "advice", "scrum"],
  "Slug": "certified_scrum_master",
  "Section": "post"
 }

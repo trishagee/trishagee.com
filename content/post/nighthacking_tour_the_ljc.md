@@ -3,6 +3,8 @@
  "disqus_title" : "NightHacking Tour: The LJC",
  "Title": "NightHacking Tour: The LJC",
  "Pubdate": "2012-11-06",
+ "Keywords": ["video", "java", "javafx", "ljc"],
+ "Tags": ["video", "java", "javafx", "ljc"],
  "Slug": "nighthacking_tour_the_ljc",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "Spock is awesome! Seriously Simplified Mocking",
  "Title": "Spock is awesome! Seriously Simplified Mocking",
  "Pubdate": "2013-07-09",
+ "Keywords": ["java", "spock", "testing", "groovy"],
+ "Tags": ["java", "spock", "testing", "groovy"],
  "Slug": "spock_is_awesome_seriously_simplified_mocking",
  "Section": "post"
 }

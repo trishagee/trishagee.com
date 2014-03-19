@@ -3,6 +3,8 @@
  "disqus_title" : "QCon London: Disruptor presentation video",
  "Title": "QCon London: Disruptor presentation video",
  "Pubdate": "2012-06-06",
+ "Keywords": ["video", "disruptor", "conferences"],
+ "Tags": ["video", "disruptor", "conferences"],
  "Slug": "qcon_london_disruptor_presentation_video",
  "Section": "post"
 }

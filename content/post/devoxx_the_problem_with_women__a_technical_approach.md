@@ -3,6 +3,8 @@
  "disqus_title" : "Devoxx: The Problem with Women - A Technical Approach",
  "Title": "Devoxx: The Problem with Women - A Technical Approach",
  "Pubdate": "2012-12-18",
+ "Keywords": ["video", "gender", "conferences"],
+ "Tags": ["video", "gender", "conferences"],
  "Slug": "devoxx_the_problem_with_women__a_technical_approach",
  "Section": "post"
 }

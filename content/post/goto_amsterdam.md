@@ -3,6 +3,8 @@
  "disqus_title" : "GOTO Amsterdam",
  "Title": "GOTO Amsterdam",
  "Pubdate": "2012-05-31",
+ "Keywords": ["conferences"],
+ "Tags": ["conferences"],
  "Slug": "goto_amsterdam",
  "Section": "post"
 }

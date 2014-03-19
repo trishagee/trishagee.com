@@ -3,6 +3,8 @@
  "disqus_title" : "Java Magazine: Intro to the Disruptor Part One",
  "Title": "Java Magazine: Intro to the Disruptor Part One",
  "Pubdate": "2012-03-22",
+ "Keywords": ["publications", "java", "disruptor", "disruptor-docs"],
+ "Tags": ["publications", "java", "disruptor", "disruptor-docs"],
  "Slug": "java_magazine_intro_to_the_disruptor_part_one",
  "Section": "post"
 }

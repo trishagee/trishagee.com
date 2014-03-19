@@ -3,6 +3,8 @@
  "disqus_title" : "Metrics and Incentives.",
  "Title": "Metrics and Incentives.",
  "Pubdate": "2008-04-17",
+ "Keywords": ["metrics", "links"],
+ "Tags": ["metrics", "links"],
  "Slug": "metrics_and_incentives",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "JavaOne: The Summary",
  "Title": "JavaOne: The Summary",
  "Pubdate": "2012-10-05",
+ "Keywords": ["JavaOne12", "conferences"],
+ "Tags": ["JavaOne12", "conferences"],
  "Slug": "javaone_the_summary",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "QCon London",
  "Title": "QCon London",
  "Pubdate": "2007-03-19",
+ "Keywords": ["qcon london"],
+ "Tags": ["qcon london"],
  "Slug": "qcon_london",
  "Section": "post"
 }

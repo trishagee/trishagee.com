@@ -3,6 +3,8 @@
  "disqus_title" : "London Java Community Open Conference",
  "Title": "London Java Community Open Conference",
  "Pubdate": "2011-11-28",
+ "Keywords": ["java", "disruptor", "ljc", "conferences"],
+ "Tags": ["java", "disruptor", "ljc", "conferences"],
  "Slug": "london_java_community_open_conference",
  "Section": "post"
 }

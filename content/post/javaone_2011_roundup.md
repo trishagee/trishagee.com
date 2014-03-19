@@ -3,6 +3,8 @@
  "disqus_title" : "JavaOne 2011: Roundup",
  "Title": "JavaOne 2011: Roundup",
  "Pubdate": "2011-10-12",
+ "Keywords": ["opinion", "disruptor", "JavaOne11", "jcp", "ljc", "conferences"],
+ "Tags": ["opinion", "disruptor", "JavaOne11", "jcp", "ljc", "conferences"],
  "Slug": "javaone_2011_roundup",
  "Section": "post"
 }

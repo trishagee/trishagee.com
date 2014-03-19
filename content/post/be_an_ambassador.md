@@ -3,6 +3,8 @@
  "disqus_title" : "Be an Ambassador!",
  "Title": "Be an Ambassador!",
  "Pubdate": "2013-05-23",
+ "Keywords": ["mentoring"],
+ "Tags": ["mentoring"],
  "Slug": "be_an_ambassador",
  "Section": "post"
 }

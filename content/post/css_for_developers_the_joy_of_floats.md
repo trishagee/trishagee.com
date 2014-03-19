@@ -3,6 +3,8 @@
  "disqus_title" : "CSS for Developers: The Joy of Floats",
  "Title": "CSS for Developers: The Joy of Floats",
  "Pubdate": "2011-01-19",
+ "Keywords": ["reference", "ui", "css"],
+ "Tags": ["reference", "ui", "css"],
  "Slug": "css_for_developers_the_joy_of_floats",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "Featured on a BBC Podcast",
  "Title": "Featured on a BBC Podcast",
  "Pubdate": "2012-05-03",
+ "Keywords": ["gender", "interview", "conferences"],
+ "Tags": ["gender", "interview", "conferences"],
  "Slug": "featured_on_a_bbc_podcast",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "TradeTech 2011 - Not like a developer conference",
  "Title": "TradeTech 2011 - Not like a developer conference",
  "Pubdate": "2011-04-18",
+ "Keywords": ["lmax", "conferences"],
+ "Tags": ["lmax", "conferences"],
  "Slug": "tradetech_2011__not_like_a_developer_conference",
  "Section": "post"
 }

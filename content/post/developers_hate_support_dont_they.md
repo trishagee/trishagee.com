@@ -3,6 +3,8 @@
  "disqus_title" : "Developers hate support, don't they?",
  "Title": "Developers hate support, don't they?",
  "Pubdate": "2013-07-05",
+ "Keywords": ["support", "10gen"],
+ "Tags": ["support", "10gen"],
  "Slug": "developers_hate_support_dont_they",
  "Section": "post"
 }

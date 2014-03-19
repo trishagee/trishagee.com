@@ -3,6 +3,8 @@
  "disqus_title" : "The Joy of Coding",
  "Title": "The Joy of Coding",
  "Pubdate": "2014-03-08",
+ "Keywords": ["joy of coding", "conferences"],
+ "Tags": ["joy of coding", "conferences"],
  "Slug": "the_joy_of_coding",
  "Section": "post"
 }

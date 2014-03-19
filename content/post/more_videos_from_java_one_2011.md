@@ -3,6 +3,8 @@
  "disqus_title" : "More videos from Java One 2011",
  "Title": "More videos from Java One 2011",
  "Pubdate": "2011-11-06",
+ "Keywords": ["video", "JavaOne11", "gender", "conferences"],
+ "Tags": ["video", "JavaOne11", "gender", "conferences"],
  "Slug": "more_videos_from_java_one_2011",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "Java 8 - Introduction to Lambdas Article",
  "Title": "Java 8 - Introduction to Lambdas Article",
  "Pubdate": "2012-11-08",
+ "Keywords": ["openJDK", "java", "links", "java 8"],
+ "Tags": ["openJDK", "java", "links", "java 8"],
  "Slug": "java_8__introduction_to_lambdas_article",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "2013 is looking a lot busier than I planned...",
  "Title": "2013 is looking a lot busier than I planned...",
  "Pubdate": "2013-05-10",
+ "Keywords": ["events", "conferences"],
+ "Tags": ["events", "conferences"],
  "Slug": "2013_is_looking_a_lot_busier_than_i_planned",
  "Section": "post"
 }

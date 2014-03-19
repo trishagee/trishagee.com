@@ -3,6 +3,8 @@
  "disqus_title" : "Performance Resources",
  "Title": "Performance Resources",
  "Pubdate": "2012-10-22",
+ "Keywords": [],
+ "Tags": [],
  "Slug": "performance_resources",
  "Section": "post"
 }

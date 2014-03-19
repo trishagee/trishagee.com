@@ -3,6 +3,8 @@
  "disqus_title" : "Webinar: Processing High Volume Data Feeds with MongoDB",
  "Title": "Webinar: Processing High Volume Data Feeds with MongoDB",
  "Pubdate": "2012-12-05",
+ "Keywords": ["MongoDB", "webinars"],
+ "Tags": ["MongoDB", "webinars"],
  "Slug": "webinar_processing_high_volume_data_feeds_with_mongodb",
  "Section": "post"
 }

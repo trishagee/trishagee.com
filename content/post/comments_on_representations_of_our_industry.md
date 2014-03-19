@@ -3,6 +3,8 @@
  "disqus_title" : "Comments on representations of our industry",
  "Title": "Comments on representations of our industry",
  "Pubdate": "2009-05-15",
+ "Keywords": ["gender", "links"],
+ "Tags": ["gender", "links"],
  "Slug": "comments_on_representations_of_our_industry",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "The London Java Community elected to the JCP SE/EE Executive Committee",
  "Title": "The London Java Community elected to the JCP SE/EE Executive Committee",
  "Pubdate": "2011-05-16",
+ "Keywords": ["java", "ljc"],
+ "Tags": ["java", "ljc"],
  "Slug": "the_london_java_community_elected_to_the_jcp_seee_executive_committee",
  "Section": "post"
 }

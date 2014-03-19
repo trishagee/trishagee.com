@@ -3,6 +3,8 @@
  "disqus_title" : "GWT: Why VerticalPanel is Evil",
  "Title": "GWT: Why VerticalPanel is Evil",
  "Pubdate": "2011-01-21",
+ "Keywords": ["java", "lmax", "gwt", "ui", "html"],
+ "Tags": ["java", "lmax", "gwt", "ui", "html"],
  "Slug": "gwt_why_verticalpanel_is_evil",
  "Section": "post"
 }

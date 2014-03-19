@@ -3,6 +3,8 @@
  "disqus_title" : "Scrum but...",
  "Title": "Scrum but...",
  "Pubdate": "2009-02-24",
+ "Keywords": ["agile", "what not to do", "scrum", "links"],
+ "Tags": ["agile", "what not to do", "scrum", "links"],
  "Slug": "scrum_but",
  "Section": "post"
 }

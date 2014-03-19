@@ -3,6 +3,8 @@
  "disqus_title" : "Vote for the LJC",
  "Title": "Vote for the LJC",
  "Pubdate": "2011-06-14",
+ "Keywords": ["awards", "ljc"],
+ "Tags": ["awards", "ljc"],
  "Slug": "vote_for_the_ljc",
  "Section": "post"
 }

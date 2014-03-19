@@ -3,6 +3,8 @@
  "disqus_title" : "On Changing The Image Of Programmers",
  "Title": "On Changing The Image Of Programmers",
  "Pubdate": "2011-01-24",
+ "Keywords": ["stereotypes", "gender", "thoughtworks"],
+ "Tags": ["stereotypes", "gender", "thoughtworks"],
  "Slug": "on_changing_the_image_of_programmers",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "The birth of a new community",
  "Title": "The birth of a new community",
  "Pubdate": "2012-06-09",
+ "Keywords": ["london", "presentations", "user groups", "ljc"],
+ "Tags": ["london", "presentations", "user groups", "ljc"],
  "Slug": "the_birth_of_a_new_community",
  "Section": "post"
 }

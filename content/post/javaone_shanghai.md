@@ -3,6 +3,8 @@
  "disqus_title" : "JavaOne Shanghai",
  "Title": "JavaOne Shanghai",
  "Pubdate": "2013-07-31",
+ "Keywords": ["conferences"],
+ "Tags": ["conferences"],
  "Slug": "javaone_shanghai",
  "Section": "post"
 }

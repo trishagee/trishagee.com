@@ -3,6 +3,8 @@
  "disqus_title" : "Video: Why we shouldn't target women",
  "Title": "Video: Why we shouldn't target women",
  "Pubdate": "2011-12-22",
+ "Keywords": ["video", "gender", "conferences"],
+ "Tags": ["video", "gender", "conferences"],
  "Slug": "video_why_we_shouldnt_target_women",
  "Section": "post"
 }

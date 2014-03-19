@@ -3,6 +3,8 @@
  "disqus_title" : "Dissecting the Disruptor: Writing to the ring buffer",
  "Title": "Dissecting the Disruptor: Writing to the ring buffer",
  "Pubdate": "2011-07-04",
+ "Keywords": ["java", "disruptor", "lmax", "disruptor-docs", "concurrency"],
+ "Tags": ["java", "disruptor", "lmax", "disruptor-docs", "concurrency"],
  "Slug": "dissecting_the_disruptor_writing_to_the_ring_buffer",
  "Section": "post"
 }

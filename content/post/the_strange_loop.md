@@ -3,6 +3,8 @@
  "disqus_title" : "The Strange Loop",
  "Title": "The Strange Loop",
  "Pubdate": "2012-09-30",
+ "Keywords": ["strangeloop", "conferences"],
+ "Tags": ["strangeloop", "conferences"],
  "Slug": "the_strange_loop",
  "Section": "post"
 }

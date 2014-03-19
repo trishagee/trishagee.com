@@ -3,6 +3,8 @@
  "disqus_title" : "Dissecting the Disruptor: Why it's so fast (part one) - Locks Are Bad",
  "Title": "Dissecting the Disruptor: Why it's so fast (part one) - Locks Are Bad",
  "Pubdate": "2011-07-16",
+ "Keywords": ["java", "disruptor", "lmax", "disruptor-docs", "concurrency"],
+ "Tags": ["java", "disruptor", "lmax", "disruptor-docs", "concurrency"],
  "Slug": "dissecting_the_disruptor_why_its_so_fast_part_one__locks_are_bad",
  "Section": "post"
 }

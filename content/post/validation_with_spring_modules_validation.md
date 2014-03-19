@@ -3,6 +3,8 @@
  "disqus_title" : "Validation with Spring Modules Validation",
  "Title": "Validation with Spring Modules Validation",
  "Pubdate": "2007-07-16",
+ "Keywords": ["spring", "code"],
+ "Tags": ["spring", "code"],
  "Slug": "validation_with_spring_modules_validation",
  "Section": "post"
 }

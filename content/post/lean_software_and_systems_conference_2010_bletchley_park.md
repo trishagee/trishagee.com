@@ -3,6 +3,8 @@
  "disqus_title" : "Lean Software and Systems Conference 2010 (Bletchley Park)",
  "Title": "Lean Software and Systems Conference 2010 (Bletchley Park)",
  "Pubdate": "2010-07-09",
+ "Keywords": ["kanban", "lean", "conferences"],
+ "Tags": ["kanban", "lean", "conferences"],
  "Slug": "lean_software_and_systems_conference_2010_bletchley_park",
  "Section": "post"
 }

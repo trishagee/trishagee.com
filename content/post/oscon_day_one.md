@@ -3,6 +3,8 @@
  "disqus_title" : "OSCON Day One",
  "Title": "OSCON Day One",
  "Pubdate": "2012-07-19",
+ "Keywords": ["oscon", "conferences"],
+ "Tags": ["oscon", "conferences"],
  "Slug": "oscon_day_one",
  "Section": "post"
 }

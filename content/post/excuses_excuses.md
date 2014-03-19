@@ -3,6 +3,8 @@
  "disqus_title" : "Excuses excuses.",
  "Title": "Excuses excuses.",
  "Pubdate": "2007-04-23",
+ "Keywords": ["None"],
+ "Tags": ["None"],
  "Slug": "excuses_excuses",
  "Section": "post"
 }

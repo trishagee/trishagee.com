@@ -3,6 +3,8 @@
  "disqus_title" : "Why Java developers hate .NET",
  "Title": "Why Java developers hate .NET",
  "Pubdate": "2011-05-20",
+ "Keywords": ["ide", "java", "lmax", ".net", "code", "c#"],
+ "Tags": ["ide", "java", "lmax", ".net", "code", "c#"],
  "Slug": "why_java_developers_hate_net",
  "Section": "post"
 }

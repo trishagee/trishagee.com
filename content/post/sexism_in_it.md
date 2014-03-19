@@ -3,6 +3,8 @@
  "disqus_title" : "Sexism in IT?",
  "Title": "Sexism in IT?",
  "Pubdate": "2009-03-30",
+ "Keywords": ["gender", "girls"],
+ "Tags": ["gender", "girls"],
  "Slug": "sexism_in_it",
  "Section": "post"
 }

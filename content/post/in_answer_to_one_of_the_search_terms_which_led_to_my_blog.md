@@ -3,6 +3,8 @@
  "disqus_title" : "In answer to one of the search terms which led to my blog...",
  "Title": "In answer to one of the search terms which led to my blog...",
  "Pubdate": "2011-07-12",
+ "Keywords": ["gender", "photos"],
+ "Tags": ["gender", "photos"],
  "Slug": "in_answer_to_one_of_the_search_terms_which_led_to_my_blog",
  "Section": "post"
 }

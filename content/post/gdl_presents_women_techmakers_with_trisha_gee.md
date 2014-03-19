@@ -3,6 +3,8 @@
  "disqus_title" : "GDL Presents Women Techmakers with Trisha Gee",
  "Title": "GDL Presents Women Techmakers with Trisha Gee",
  "Pubdate": "2013-03-06",
+ "Keywords": ["video", "interview"],
+ "Tags": ["video", "interview"],
  "Slug": "gdl_presents_women_techmakers_with_trisha_gee",
  "Section": "post"
 }

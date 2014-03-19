@@ -3,6 +3,8 @@
  "disqus_title" : "JAX London - I learn stuff and meet people",
  "Title": "JAX London - I learn stuff and meet people",
  "Pubdate": "2011-11-15",
+ "Keywords": ["presentations", "jax london", "java", "ljc", "conferences"],
+ "Tags": ["presentations", "jax london", "java", "ljc", "conferences"],
  "Slug": "jax_london__i_learn_stuff_and_meet_people",
  "Section": "post"
 }

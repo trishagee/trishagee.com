@@ -3,6 +3,8 @@
  "disqus_title" : "The importance of choosing a good scale for your metrics",
  "Title": "The importance of choosing a good scale for your metrics",
  "Pubdate": "2007-10-10",
+ "Keywords": ["None"],
+ "Tags": ["None"],
  "Slug": "the_importance_of_choosing_a_good_scale_for_your_metrics",
  "Section": "post"
 }

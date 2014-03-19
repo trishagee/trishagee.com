@@ -3,6 +3,8 @@
  "disqus_title" : "Amazing!",
  "Title": "Amazing!",
  "Pubdate": "2008-10-08",
+ "Keywords": ["spring"],
+ "Tags": ["spring"],
  "Slug": "amazing",
  "Section": "post"
 }

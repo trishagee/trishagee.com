@@ -3,6 +3,8 @@
  "disqus_title" : "Why the customer isn't always right",
  "Title": "Why the customer isn't always right",
  "Pubdate": "2012-02-12",
+ "Keywords": ["requirements", "agile", "people are people"],
+ "Tags": ["requirements", "agile", "people are people"],
  "Slug": "why_the_customer_isnt_always_right",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "Make the Future Java",
  "Title": "Make the Future Java",
  "Pubdate": "2013-10-09",
+ "Keywords": ["video", "JavaOne13"],
+ "Tags": ["video", "JavaOne13"],
  "Slug": "make_the_future_java",
  "Section": "post"
 }

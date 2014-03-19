@@ -3,6 +3,8 @@
  "disqus_title" : "First public appearance caught on video",
  "Title": "First public appearance caught on video",
  "Pubdate": "2011-09-23",
+ "Keywords": ["video", "presentations", "jcp", "ljc"],
+ "Tags": ["video", "presentations", "jcp", "ljc"],
  "Slug": "first_public_appearance_caught_on_video",
  "Section": "post"
 }

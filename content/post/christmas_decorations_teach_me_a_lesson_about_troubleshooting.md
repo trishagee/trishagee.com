@@ -3,6 +3,8 @@
  "disqus_title" : "Christmas decorations teach me a lesson about troubleshooting",
  "Title": "Christmas decorations teach me a lesson about troubleshooting",
  "Pubdate": "2012-01-17",
+ "Keywords": ["performance", "testing"],
+ "Tags": ["performance", "testing"],
  "Slug": "christmas_decorations_teach_me_a_lesson_about_troubleshooting",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "Sparking innovation in an established company",
  "Title": "Sparking innovation in an established company",
  "Pubdate": "2014-03-10",
+ "Keywords": ["presentations"],
+ "Tags": ["presentations"],
  "Slug": "sparking_innovation_in_an_established_company",
  "Section": "post"
 }

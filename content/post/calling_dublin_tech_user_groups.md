@@ -3,6 +3,8 @@
  "disqus_title" : "Calling Dublin Tech User Groups!",
  "Title": "Calling Dublin Tech User Groups!",
  "Pubdate": "2013-06-04",
+ "Keywords": ["travel"],
+ "Tags": ["travel"],
  "Slug": "calling_dublin_tech_user_groups",
  "Section": "post"
 }

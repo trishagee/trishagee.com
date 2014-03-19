@@ -3,6 +3,8 @@
  "disqus_title" : "A NYSE Product Manager and an LMAX Developer walk into a low latency trading seminar...",
  "Title": "A NYSE Product Manager and an LMAX Developer walk into a low latency trading seminar...",
  "Pubdate": "2011-11-09",
+ "Keywords": ["lmax", "gender", "conferences"],
+ "Tags": ["lmax", "gender", "conferences"],
  "Slug": "a_nyse_product_manager_and_an_lmax_developer_walk_into_a_low_latency_trading_seminar",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "My First Official MongoDB Appearance",
  "Title": "My First Official MongoDB Appearance",
  "Pubdate": "2012-11-30",
+ "Keywords": ["presentations", "MongoDB", "webinars"],
+ "Tags": ["presentations", "MongoDB", "webinars"],
  "Slug": "my_first_official_mongodb_appearance",
  "Section": "post"
 }

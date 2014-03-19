@@ -3,6 +3,8 @@
  "disqus_title" : "Disruptor 2.0 - All Change Please",
  "Title": "Disruptor 2.0 - All Change Please",
  "Pubdate": "2011-08-30",
+ "Keywords": ["java", "disruptor", "disruptor-docs", "concurrency"],
+ "Tags": ["java", "disruptor", "disruptor-docs", "concurrency"],
  "Slug": "disruptor_20__all_change_please",
  "Section": "post"
 }

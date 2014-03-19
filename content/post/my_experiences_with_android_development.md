@@ -3,6 +3,8 @@
  "disqus_title" : "My Experiences with Android Development",
  "Title": "My Experiences with Android Development",
  "Pubdate": "2011-01-27",
+ "Keywords": ["android"],
+ "Tags": ["android"],
  "Slug": "my_experiences_with_android_development",
  "Section": "post"
 }

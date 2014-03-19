@@ -3,6 +3,8 @@
  "disqus_title" : "Devoxx: The story so far",
  "Title": "Devoxx: The story so far",
  "Pubdate": "2011-11-16",
+ "Keywords": ["devoxx", "gender", "ljc", "conferences"],
+ "Tags": ["devoxx", "gender", "ljc", "conferences"],
  "Slug": "devoxx_the_story_so_far",
  "Section": "post"
 }

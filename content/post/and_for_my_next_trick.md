@@ -3,6 +3,8 @@
  "disqus_title" : "And for my next trick....",
  "Title": "And for my next trick....",
  "Pubdate": "2012-10-11",
+ "Keywords": [],
+ "Tags": [],
  "Slug": "and_for_my_next_trick",
  "Section": "post"
 }

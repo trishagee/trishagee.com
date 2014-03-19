@@ -3,6 +3,8 @@
  "disqus_title" : "How to show your employees how much you hate them",
  "Title": "How to show your employees how much you hate them",
  "Pubdate": "2011-04-04",
+ "Keywords": ["work environment"],
+ "Tags": ["work environment"],
  "Slug": "how_to_show_your_employees_how_much_you_hate_them",
  "Section": "post"
 }

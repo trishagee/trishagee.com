@@ -3,6 +3,8 @@
  "disqus_title" : "LJC Open Conference 2012",
  "Title": "LJC Open Conference 2012",
  "Pubdate": "2012-11-26",
+ "Keywords": ["ljc", "conferences"],
+ "Tags": ["ljc", "conferences"],
  "Slug": "ljc_open_conference_2012",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "LinkedIn Etiquette",
  "Title": "LinkedIn Etiquette",
  "Pubdate": "2013-11-06",
+ "Keywords": ["recruitment", "jobs", "advice"],
+ "Tags": ["recruitment", "jobs", "advice"],
  "Slug": "linkedin_etiquette",
  "Section": "post"
 }

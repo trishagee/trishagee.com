@@ -3,6 +3,8 @@
  "disqus_title" : "Public Appearances",
  "Title": "Public Appearances",
  "Pubdate": "2013-12-20",
+ "Keywords": [],
+ "Tags": [],
  "Slug": "public_appearances",
  "Section": "post"
 }

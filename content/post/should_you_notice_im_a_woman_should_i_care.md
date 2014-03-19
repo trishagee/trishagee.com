@@ -3,6 +3,8 @@
  "disqus_title" : "Should you notice I'm a woman? Should I care?",
  "Title": "Should you notice I'm a woman? Should I care?",
  "Pubdate": "2014-02-10",
+ "Keywords": ["gender", "conferences"],
+ "Tags": ["gender", "conferences"],
  "Slug": "should_you_notice_im_a_woman_should_i_care",
  "Section": "post"
 }

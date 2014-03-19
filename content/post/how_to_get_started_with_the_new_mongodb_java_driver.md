@@ -3,6 +3,8 @@
  "disqus_title" : "How to get started with the new MongoDB Java Driver",
  "Title": "How to get started with the new MongoDB Java Driver",
  "Pubdate": "2013-08-31",
+ "Keywords": ["java", "MongoDB", "gradle"],
+ "Tags": ["java", "MongoDB", "gradle"],
  "Slug": "how_to_get_started_with_the_new_mongodb_java_driver",
  "Section": "post"
 }

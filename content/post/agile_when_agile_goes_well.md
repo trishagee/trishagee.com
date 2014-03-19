@@ -3,6 +3,8 @@
  "disqus_title" : "Agile++: When Agile Goes Well",
  "Title": "Agile++: When Agile Goes Well",
  "Pubdate": "2012-12-12",
+ "Keywords": ["agile", "devoxx", "lmax"],
+ "Tags": ["agile", "devoxx", "lmax"],
  "Slug": "agile_when_agile_goes_well",
  "Section": "post"
 }

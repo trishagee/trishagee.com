@@ -3,6 +3,8 @@
  "disqus_title" : "How are you using MongoDB with Java?",
  "Title": "How are you using MongoDB with Java?",
  "Pubdate": "2013-05-16",
+ "Keywords": ["java", "MongoDB"],
+ "Tags": ["java", "MongoDB"],
  "Slug": "how_are_you_using_mongodb_with_java",
  "Section": "post"
 }

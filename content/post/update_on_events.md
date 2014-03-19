@@ -3,6 +3,8 @@
  "disqus_title" : "Update on events",
  "Title": "Update on events",
  "Pubdate": "2012-05-12",
+ "Keywords": ["gender", "interview", "links", "conferences"],
+ "Tags": ["gender", "interview", "links", "conferences"],
  "Slug": "update_on_events",
  "Section": "post"
 }

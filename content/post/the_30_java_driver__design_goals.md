@@ -3,6 +3,8 @@
  "disqus_title" : "The 3.0 Java Driver - Design Goals",
  "Title": "The 3.0 Java Driver - Design Goals",
  "Pubdate": "2013-08-13",
+ "Keywords": ["java", "MongoDB"],
+ "Tags": ["java", "MongoDB"],
  "Slug": "the_30_java_driver__design_goals",
  "Section": "post"
 }

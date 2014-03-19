@@ -3,6 +3,8 @@
  "disqus_title" : "JavaOne 2013",
  "Title": "JavaOne 2013",
  "Pubdate": "2013-11-05",
+ "Keywords": ["presentations", "JavaOne13", "conferences"],
+ "Tags": ["presentations", "JavaOne13", "conferences"],
  "Slug": "javaone_2013",
  "Section": "post"
 }

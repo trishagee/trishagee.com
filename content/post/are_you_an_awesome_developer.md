@@ -3,6 +3,8 @@
  "disqus_title" : "Are you an awesome developer?",
  "Title": "Are you an awesome developer?",
  "Pubdate": "2011-09-20",
+ "Keywords": ["java", "agile", "jobs", "ddd"],
+ "Tags": ["java", "agile", "jobs", "ddd"],
  "Slug": "are_you_an_awesome_developer",
  "Section": "post"
 }

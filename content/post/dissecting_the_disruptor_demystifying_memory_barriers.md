@@ -3,6 +3,8 @@
  "disqus_title" : "Dissecting the Disruptor: Demystifying Memory Barriers",
  "Title": "Dissecting the Disruptor: Demystifying Memory Barriers",
  "Pubdate": "2011-08-07",
+ "Keywords": ["java", "disruptor", "lmax", "mechanical sympathy", "disruptor-docs", "concurrency"],
+ "Tags": ["java", "disruptor", "lmax", "mechanical sympathy", "disruptor-docs", "concurrency"],
  "Slug": "dissecting_the_disruptor_demystifying_memory_barriers",
  "Section": "post"
 }

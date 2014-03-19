@@ -3,6 +3,8 @@
  "disqus_title" : "Dissecting the Disruptor: Why it's so fast (part two) - Magic cache line padding",
  "Title": "Dissecting the Disruptor: Why it's so fast (part two) - Magic cache line padding",
  "Pubdate": "2011-07-22",
+ "Keywords": ["java", "disruptor", "lmax", "mechanical sympathy", "disruptor-docs", "concurrency"],
+ "Tags": ["java", "disruptor", "lmax", "mechanical sympathy", "disruptor-docs", "concurrency"],
  "Slug": "dissecting_the_disruptor_why_its_so_fast_part_two__magic_cache_line_padding",
  "Section": "post"
 }

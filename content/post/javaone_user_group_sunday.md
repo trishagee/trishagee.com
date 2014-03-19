@@ -3,6 +3,8 @@
  "disqus_title" : "JavaOne: User Group Sunday",
  "Title": "JavaOne: User Group Sunday",
  "Pubdate": "2012-10-01",
+ "Keywords": ["JavaOne12", "ljc", "conferences"],
+ "Tags": ["JavaOne12", "ljc", "conferences"],
  "Slug": "javaone_user_group_sunday",
  "Section": "post"
 }

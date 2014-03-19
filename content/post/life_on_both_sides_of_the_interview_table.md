@@ -3,6 +3,8 @@
  "disqus_title" : "Life on both sides of the interview table",
  "Title": "Life on both sides of the interview table",
  "Pubdate": "2013-08-29",
+ "Keywords": ["video", "recruitment", "qcon london", "conferences"],
+ "Tags": ["video", "recruitment", "qcon london", "conferences"],
  "Slug": "life_on_both_sides_of_the_interview_table",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "On The Evil Of Stereotypes",
  "Title": "On The Evil Of Stereotypes",
  "Pubdate": "2012-07-27",
+ "Keywords": ["stereotypes", "rw", "gender", "oscon"],
+ "Tags": ["stereotypes", "rw", "gender", "oscon"],
  "Slug": "on_the_evil_of_stereotypes",
  "Section": "post"
 }

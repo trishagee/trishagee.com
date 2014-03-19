@@ -3,6 +3,8 @@
  "disqus_title" : "CSS for Developers: Column Layout Using CSS",
  "Title": "CSS for Developers: Column Layout Using CSS",
  "Pubdate": "2011-01-25",
+ "Keywords": ["reference", "ui", "css"],
+ "Tags": ["reference", "ui", "css"],
  "Slug": "css_for_developers_column_layout_using_css",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "Can't. Take. Much. More.",
  "Title": "Can't. Take. Much. More.",
  "Pubdate": "2013-07-30",
+ "Keywords": [],
+ "Tags": [],
  "Slug": "cant_take_much_more",
  "Section": "post"
 }

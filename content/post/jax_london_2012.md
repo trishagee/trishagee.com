@@ -3,6 +3,8 @@
  "disqus_title" : "JAX London 2012",
  "Title": "JAX London 2012",
  "Pubdate": "2012-10-17",
+ "Keywords": ["ljc", "conferences"],
+ "Tags": ["ljc", "conferences"],
  "Slug": "jax_london_2012",
  "Section": "post"
 }

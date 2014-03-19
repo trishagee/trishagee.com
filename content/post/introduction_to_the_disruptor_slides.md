@@ -3,6 +3,8 @@
  "disqus_title" : "Introduction to the Disruptor Slides",
  "Title": "Introduction to the Disruptor Slides",
  "Pubdate": "2012-10-10",
+ "Keywords": ["presentations", "disruptor"],
+ "Tags": ["presentations", "disruptor"],
  "Slug": "introduction_to_the_disruptor_slides",
  "Section": "post"
 }

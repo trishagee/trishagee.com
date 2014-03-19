@@ -3,6 +3,8 @@
  "disqus_title" : "Certification",
  "Title": "Certification",
  "Pubdate": "2008-04-16",
+ "Keywords": ["sitemesh", "books", "certification"],
+ "Tags": ["sitemesh", "books", "certification"],
  "Slug": "certification",
  "Section": "post"
 }

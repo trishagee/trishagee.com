@@ -3,6 +3,8 @@
  "disqus_title" : "Tips for Presenters",
  "Title": "Tips for Presenters",
  "Pubdate": "2012-10-02",
+ "Keywords": ["conferences"],
+ "Tags": ["conferences"],
  "Slug": "tips_for_presenters",
  "Section": "post"
 }

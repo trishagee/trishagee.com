@@ -3,6 +3,8 @@
  "disqus_title" : "Devoxx 2012",
  "Title": "Devoxx 2012",
  "Pubdate": "2012-11-12",
+ "Keywords": [],
+ "Tags": [],
  "Slug": "devoxx_2012",
  "Section": "post"
 }

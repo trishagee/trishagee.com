@@ -3,6 +3,8 @@
  "disqus_title" : "Working Environment",
  "Title": "Working Environment",
  "Pubdate": "2008-11-20",
+ "Keywords": ["work environment", "question"],
+ "Tags": ["work environment", "question"],
  "Slug": "working_environment",
  "Section": "post"
 }

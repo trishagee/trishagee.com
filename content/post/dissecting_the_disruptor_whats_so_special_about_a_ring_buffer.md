@@ -3,6 +3,8 @@
  "disqus_title" : "Dissecting the Disruptor: What's so special about a ring buffer?",
  "Title": "Dissecting the Disruptor: What's so special about a ring buffer?",
  "Pubdate": "2011-06-22",
+ "Keywords": ["java", "data structures", "disruptor", "lmax", "disruptor-docs"],
+ "Tags": ["java", "data structures", "disruptor", "lmax", "disruptor-docs"],
  "Slug": "dissecting_the_disruptor_whats_so_special_about_a_ring_buffer",
  "Section": "post"
 }

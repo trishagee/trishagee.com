@@ -3,6 +3,8 @@
  "disqus_title" : "CSS for Developers: Cross Browser Table Border Behaviour",
  "Title": "CSS for Developers: Cross Browser Table Border Behaviour",
  "Pubdate": "2011-01-28",
+ "Keywords": ["reference", "ui", "css"],
+ "Tags": ["reference", "ui", "css"],
  "Slug": "css_for_developers_cross_browser_table_border_behaviour",
  "Section": "post"
 }

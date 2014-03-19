@@ -3,6 +3,8 @@
  "disqus_title" : "QCon Day One",
  "Title": "QCon Day One",
  "Pubdate": "2013-03-06",
+ "Keywords": ["qcon london", "conferences"],
+ "Tags": ["qcon london", "conferences"],
  "Slug": "qcon_day_one",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "On the perils of Front End Design",
  "Title": "On the perils of Front End Design",
  "Pubdate": "2008-09-01",
+ "Keywords": ["ui"],
+ "Tags": ["ui"],
  "Slug": "on_the_perils_of_front_end_design",
  "Section": "post"
 }

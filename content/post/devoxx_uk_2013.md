@@ -3,6 +3,8 @@
  "disqus_title" : "Devoxx UK 2013",
  "Title": "Devoxx UK 2013",
  "Pubdate": "2013-04-02",
+ "Keywords": ["video", "presentations", "conferences"],
+ "Tags": ["video", "presentations", "conferences"],
  "Slug": "devoxx_uk_2013",
  "Section": "post"
 }

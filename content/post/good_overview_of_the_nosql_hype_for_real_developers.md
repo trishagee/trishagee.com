@@ -3,6 +3,8 @@
  "disqus_title" : "Good overview of the NoSQL hype for Real Developers",
  "Title": "Good overview of the NoSQL hype for Real Developers",
  "Pubdate": "2013-05-13",
+ "Keywords": ["video", "MongoDB", "NoSQL"],
+ "Tags": ["video", "MongoDB", "NoSQL"],
  "Slug": "good_overview_of_the_nosql_hype_for_real_developers",
  "Section": "post"
 }

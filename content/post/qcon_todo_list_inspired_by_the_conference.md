@@ -3,6 +3,8 @@
  "disqus_title" : "QCon: TODO list inspired by the conference",
  "Title": "QCon: TODO list inspired by the conference",
  "Pubdate": "2007-03-20",
+ "Keywords": ["todo", "in progress", "qcon london"],
+ "Tags": ["todo", "in progress", "qcon london"],
  "Slug": "qcon_todo_list_inspired_by_the_conference",
  "Section": "post"
 }

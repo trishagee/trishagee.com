@@ -3,6 +3,8 @@
  "disqus_title" : "First presentation at the Virtual JUG!",
  "Title": "First presentation at the Virtual JUG!",
  "Pubdate": "2013-11-22",
+ "Keywords": ["video", "presentations", "webinars", "events"],
+ "Tags": ["video", "presentations", "webinars", "events"],
  "Slug": "first_presentation_at_the_virtual_jug",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "A chance to see some of my actual code (even if it is C#)",
  "Title": "A chance to see some of my actual code (even if it is C#)",
  "Pubdate": "2011-06-20",
+ "Keywords": ["code", "c#", "links"],
+ "Tags": ["code", "c#", "links"],
  "Slug": "a_chance_to_see_some_of_my_actual_code_even_if_it_is_c",
  "Section": "post"
 }

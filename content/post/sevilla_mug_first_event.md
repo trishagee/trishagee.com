@@ -3,6 +3,8 @@
  "disqus_title" : "Sevilla MUG, first event",
  "Title": "Sevilla MUG, first event",
  "Pubdate": "2014-01-31",
+ "Keywords": ["MongoDB", "user groups", "Sevilla"],
+ "Tags": ["MongoDB", "user groups", "Sevilla"],
  "Slug": "sevilla_mug_first_event",
  "Section": "post"
 }

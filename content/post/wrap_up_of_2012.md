@@ -3,6 +3,8 @@
  "disqus_title" : "Wrap up of 2012",
  "Title": "Wrap up of 2012",
  "Pubdate": "2013-01-11",
+ "Keywords": [],
+ "Tags": [],
  "Slug": "wrap_up_of_2012",
  "Section": "post"
 }

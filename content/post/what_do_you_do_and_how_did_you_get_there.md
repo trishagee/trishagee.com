@@ -3,6 +3,8 @@
  "disqus_title" : "What Do You Do and How Did You Get There?",
  "Title": "What Do You Do and How Did You Get There?",
  "Pubdate": "2012-05-19",
+ "Keywords": ["mentoring", "interview", "gdc"],
+ "Tags": ["mentoring", "interview", "gdc"],
  "Slug": "what_do_you_do_and_how_did_you_get_there",
  "Section": "post"
 }

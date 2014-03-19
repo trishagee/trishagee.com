@@ -3,6 +3,8 @@
  "disqus_title" : "The subject of women programmers is boring",
  "Title": "The subject of women programmers is boring",
  "Pubdate": "2012-06-24",
+ "Keywords": ["gender", "conferences"],
+ "Tags": ["gender", "conferences"],
  "Slug": "the_subject_of_women_programmers_is_boring",
  "Section": "post"
 }

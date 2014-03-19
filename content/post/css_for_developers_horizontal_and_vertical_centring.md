@@ -3,6 +3,8 @@
  "disqus_title" : "CSS for Developers: Horizontal and Vertical Centring",
  "Title": "CSS for Developers: Horizontal and Vertical Centring",
  "Pubdate": "2011-04-12",
+ "Keywords": ["reference", "ui", "css"],
+ "Tags": ["reference", "ui", "css"],
  "Slug": "css_for_developers_horizontal_and_vertical_centring",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "In which I defend the Male species at an all Female event",
  "Title": "In which I defend the Male species at an all Female event",
  "Pubdate": "2012-04-29",
+ "Keywords": ["gender", "conferences"],
+ "Tags": ["gender", "conferences"],
  "Slug": "in_which_i_defend_the_male_species_at_an_all_female_event",
  "Section": "post"
 }

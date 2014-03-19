@@ -3,6 +3,8 @@
  "disqus_title" : "How Mechanical Sympathy got me to the airport on time",
  "Title": "How Mechanical Sympathy got me to the airport on time",
  "Pubdate": "2013-04-12",
+ "Keywords": ["mechanical sympathy", "stories"],
+ "Tags": ["mechanical sympathy", "stories"],
  "Slug": "how_mechanical_sympathy_got_me_to_the_airport_on_time",
  "Section": "post"
 }

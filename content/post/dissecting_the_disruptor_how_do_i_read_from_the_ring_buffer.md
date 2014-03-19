@@ -3,6 +3,8 @@
  "disqus_title" : "Dissecting the Disruptor: How do I read from the ring buffer?",
  "Title": "Dissecting the Disruptor: How do I read from the ring buffer?",
  "Pubdate": "2011-06-28",
+ "Keywords": ["java", "disruptor", "lmax", "disruptor-docs", "concurrency"],
+ "Tags": ["java", "disruptor", "lmax", "disruptor-docs", "concurrency"],
  "Slug": "dissecting_the_disruptor_how_do_i_read_from_the_ring_buffer",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "QCon: Blogger's Summary",
  "Title": "QCon: Blogger's Summary",
  "Pubdate": "2007-03-22",
+ "Keywords": ["qcon london", "links"],
+ "Tags": ["qcon london", "links"],
  "Slug": "qcon_bloggers_summary",
  "Section": "post"
 }

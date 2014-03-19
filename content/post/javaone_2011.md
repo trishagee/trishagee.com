@@ -3,6 +3,8 @@
  "disqus_title" : "JavaOne 2011",
  "Title": "JavaOne 2011",
  "Pubdate": "2011-09-27",
+ "Keywords": ["lmax", "travel", "ljc", "conferences"],
+ "Tags": ["lmax", "travel", "ljc", "conferences"],
  "Slug": "javaone_2011",
  "Section": "post"
 }

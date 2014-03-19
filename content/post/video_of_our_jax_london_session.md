@@ -3,6 +3,8 @@
  "disqus_title" : "Video of our JAX London session",
  "Title": "Video of our JAX London session",
  "Pubdate": "2011-12-04",
+ "Keywords": ["video", "jax london", "disruptor", "conferences"],
+ "Tags": ["video", "jax london", "disruptor", "conferences"],
  "Slug": "video_of_our_jax_london_session",
  "Section": "post"
 }

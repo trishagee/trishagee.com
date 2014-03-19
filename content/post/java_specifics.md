@@ -3,6 +3,8 @@
  "disqus_title" : "Java Specifics",
  "Title": "Java Specifics",
  "Pubdate": "2007-07-07",
+ "Keywords": ["java 5", "code"],
+ "Tags": ["java 5", "code"],
  "Slug": "java_specifics",
  "Section": "post"
 }

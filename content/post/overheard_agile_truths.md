@@ -3,6 +3,8 @@
  "disqus_title" : "Overheard: Agile truths",
  "Title": "Overheard: Agile truths",
  "Pubdate": "2012-04-20",
+ "Keywords": ["opinion", "agile"],
+ "Tags": ["opinion", "agile"],
  "Slug": "overheard_agile_truths",
  "Section": "post"
 }

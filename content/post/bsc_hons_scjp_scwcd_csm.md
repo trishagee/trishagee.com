@@ -3,6 +3,8 @@
  "disqus_title" : "BSc (Hons) SCJP SCWCD CSM",
  "Title": "BSc (Hons) SCJP SCWCD CSM",
  "Pubdate": "2008-05-20",
+ "Keywords": ["certification"],
+ "Tags": ["certification"],
  "Slug": "bsc_hons_scjp_scwcd_csm",
  "Section": "post"
 }

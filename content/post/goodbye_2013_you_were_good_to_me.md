@@ -3,6 +3,8 @@
  "disqus_title" : "Goodbye 2013, you were good to me...",
  "Title": "Goodbye 2013, you were good to me...",
  "Pubdate": "2014-01-02",
+ "Keywords": [],
+ "Tags": [],
  "Slug": "goodbye_2013_you_were_good_to_me",
  "Section": "post"
 }

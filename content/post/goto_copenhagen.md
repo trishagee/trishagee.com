@@ -3,6 +3,8 @@
  "disqus_title" : "GOTO Copenhagen",
  "Title": "GOTO Copenhagen",
  "Pubdate": "2012-05-24",
+ "Keywords": ["GotoCph", "conferences"],
+ "Tags": ["GotoCph", "conferences"],
  "Slug": "goto_copenhagen",
  "Section": "post"
 }

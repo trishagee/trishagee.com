@@ -3,6 +3,8 @@
  "disqus_title" : "Trisha's World Tour 2013",
  "Title": "Trisha's World Tour 2013",
  "Pubdate": "2013-06-12",
+ "Keywords": ["events", "conferences"],
+ "Tags": ["events", "conferences"],
  "Slug": "trishas_world_tour_2013",
  "Section": "post"
 }

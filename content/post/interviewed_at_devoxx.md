@@ -3,6 +3,8 @@
  "disqus_title" : "Interviewed at Devoxx",
  "Title": "Interviewed at Devoxx",
  "Pubdate": "2013-01-11",
+ "Keywords": ["video", "interview"],
+ "Tags": ["video", "interview"],
  "Slug": "interviewed_at_devoxx",
  "Section": "post"
 }

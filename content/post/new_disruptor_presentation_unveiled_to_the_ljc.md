@@ -3,6 +3,8 @@
  "disqus_title" : "New Disruptor Presentation Unveiled to the LJC!",
  "Title": "New Disruptor Presentation Unveiled to the LJC!",
  "Pubdate": "2012-03-21",
+ "Keywords": ["presentations", "disruptor", "ljc"],
+ "Tags": ["presentations", "disruptor", "ljc"],
  "Slug": "new_disruptor_presentation_unveiled_to_the_ljc",
  "Section": "post"
 }

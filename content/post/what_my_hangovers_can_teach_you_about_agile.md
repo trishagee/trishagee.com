@@ -3,6 +3,8 @@
  "disqus_title" : "What my hangovers can teach you about Agile",
  "Title": "What my hangovers can teach you about Agile",
  "Pubdate": "2011-09-17",
+ "Keywords": ["agile", "cargo cultism"],
+ "Tags": ["agile", "cargo cultism"],
  "Slug": "what_my_hangovers_can_teach_you_about_agile",
  "Section": "post"
 }

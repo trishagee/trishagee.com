@@ -3,6 +3,8 @@
  "disqus_title" : "Mike and I debut our new Disruptor presentation",
  "Title": "Mike and I debut our new Disruptor presentation",
  "Pubdate": "2011-10-21",
+ "Keywords": ["java", "disruptor", "events", "links", "ljc", "concurrency"],
+ "Tags": ["java", "disruptor", "events", "links", "ljc", "concurrency"],
  "Slug": "mike_and_i_debut_our_new_disruptor_presentation",
  "Section": "post"
 }

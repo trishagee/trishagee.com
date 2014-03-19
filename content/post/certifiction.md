@@ -3,6 +3,8 @@
  "disqus_title" : "Certifiction",
  "Title": "Certifiction",
  "Pubdate": "2007-03-21",
+ "Keywords": ["comment", "links"],
+ "Tags": ["comment", "links"],
  "Slug": "certifiction",
  "Section": "post"
 }

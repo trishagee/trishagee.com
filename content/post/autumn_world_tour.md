@@ -3,6 +3,8 @@
  "disqus_title" : "Autumn World Tour",
  "Title": "Autumn World Tour",
  "Pubdate": "2013-08-27",
+ "Keywords": [],
+ "Tags": [],
  "Slug": "autumn_world_tour",
  "Section": "post"
 }

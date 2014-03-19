@@ -3,6 +3,8 @@
  "disqus_title" : "NoSQL is a Stupid Name",
  "Title": "NoSQL is a Stupid Name",
  "Pubdate": "2012-10-23",
+ "Keywords": ["MongoDB", "NoSQL"],
+ "Tags": ["MongoDB", "NoSQL"],
  "Slug": "nosql_is_a_stupid_name",
  "Section": "post"
 }

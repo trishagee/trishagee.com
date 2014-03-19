@@ -3,6 +3,8 @@
  "disqus_title" : "On How Not To Target Girl Geeks",
  "Title": "On How Not To Target Girl Geeks",
  "Pubdate": "2011-01-20",
+ "Keywords": ["opinion", "gender"],
+ "Tags": ["opinion", "gender"],
  "Slug": "on_how_not_to_target_girl_geeks",
  "Section": "post"
 }

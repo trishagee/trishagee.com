@@ -3,6 +3,8 @@
  "disqus_title" : "Adjusting to Working Remotely",
  "Title": "Adjusting to Working Remotely",
  "Pubdate": "2013-05-31",
+ "Keywords": ["process"],
+ "Tags": ["process"],
  "Slug": "adjusting_to_working_remotely",
  "Section": "post"
 }

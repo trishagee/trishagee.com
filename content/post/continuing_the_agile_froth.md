@@ -3,6 +3,8 @@
  "disqus_title" : "Continuing the Agile froth...",
  "Title": "Continuing the Agile froth...",
  "Pubdate": "2007-03-20",
+ "Keywords": ["agile", "links"],
+ "Tags": ["agile", "links"],
  "Slug": "continuing_the_agile_froth",
  "Section": "post"
 }

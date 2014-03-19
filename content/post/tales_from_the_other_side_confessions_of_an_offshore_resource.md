@@ -3,6 +3,8 @@
  "disqus_title" : "Tales from the Other Side: Confessions of an Offshore Resource",
  "Title": "Tales from the Other Side: Confessions of an Offshore Resource",
  "Pubdate": "2008-04-29",
+ "Keywords": ["process", "offshore"],
+ "Tags": ["process", "offshore"],
  "Slug": "tales_from_the_other_side_confessions_of_an_offshore_resource",
  "Section": "post"
 }

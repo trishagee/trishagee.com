@@ -3,6 +3,8 @@
  "disqus_title" : "Summary of Devoxx 2012",
  "Title": "Summary of Devoxx 2012",
  "Pubdate": "2012-11-22",
+ "Keywords": ["MongoDB", "devoxx", "lmax", "conferences"],
+ "Tags": ["MongoDB", "devoxx", "lmax", "conferences"],
  "Slug": "summary_of_devoxx_2012",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "Feel like an outsider?",
  "Title": "Feel like an outsider?",
  "Pubdate": "2014-02-08",
+ "Keywords": ["gender", "conferences"],
+ "Tags": ["gender", "conferences"],
  "Slug": "feel_like_an_outsider",
  "Section": "post"
 }

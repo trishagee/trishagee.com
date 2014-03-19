@@ -3,6 +3,8 @@
  "disqus_title" : "Why changing jobs frequently is not necessarily a bad thing...",
  "Title": "Why changing jobs frequently is not necessarily a bad thing...",
  "Pubdate": "2009-04-02",
+ "Keywords": ["links"],
+ "Tags": ["links"],
  "Slug": "why_changing_jobs_frequently_is_not_necessarily_a_bad_thing",
  "Section": "post"
 }

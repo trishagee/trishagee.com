@@ -3,6 +3,8 @@
  "disqus_title" : "Effective Sketches",
  "Title": "Effective Sketches",
  "Pubdate": "2011-09-04",
+ "Keywords": ["training"],
+ "Tags": ["training"],
  "Slug": "effective_sketches",
  "Section": "post"
 }

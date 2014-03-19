@@ -3,6 +3,8 @@
  "disqus_title" : "Getting around a bit",
  "Title": "Getting around a bit",
  "Pubdate": "2011-05-23",
+ "Keywords": ["lmax", "thoughtworks", "links", "ljc"],
+ "Tags": ["lmax", "thoughtworks", "links", "ljc"],
  "Slug": "getting_around_a_bit",
  "Section": "post"
 }

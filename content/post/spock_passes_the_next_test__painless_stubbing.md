@@ -3,6 +3,8 @@
  "disqus_title" : "Spock passes the next test - Painless Stubbing",
  "Title": "Spock passes the next test - Painless Stubbing",
  "Pubdate": "2013-07-10",
+ "Keywords": ["java", "spock", "testing", "groovy"],
+ "Tags": ["java", "spock", "testing", "groovy"],
  "Slug": "spock_passes_the_next_test__painless_stubbing",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "Interviewed at GOTO Copenhagen",
  "Title": "Interviewed at GOTO Copenhagen",
  "Pubdate": "2012-08-23",
+ "Keywords": ["video", "interview", "ljc"],
+ "Tags": ["video", "interview", "ljc"],
  "Slug": "interviewed_at_goto_copenhagen",
  "Section": "post"
 }

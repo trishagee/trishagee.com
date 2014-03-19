@@ -3,6 +3,8 @@
  "disqus_title" : "JAX London & MongoDB Tutorial",
  "Title": "JAX London & MongoDB Tutorial",
  "Pubdate": "2013-11-07",
+ "Keywords": ["jax london", "MongoDB", "ljc", "conferences"],
+ "Tags": ["jax london", "MongoDB", "ljc", "conferences"],
  "Slug": "jax_london__mongodb_tutorial",
  "Section": "post"
 }

@@ -3,6 +3,8 @@
  "disqus_title" : "Interviewed by Stephen Chin about JavaOne 2013",
  "Title": "Interviewed by Stephen Chin about JavaOne 2013",
  "Pubdate": "2013-08-30",
+ "Keywords": ["video", "MongoDB", "interview"],
+ "Tags": ["video", "MongoDB", "interview"],
  "Slug": "interviewed_by_stephen_chin_about_javaone_2013",
  "Section": "post"
 }
