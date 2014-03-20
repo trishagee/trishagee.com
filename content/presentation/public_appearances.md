@@ -141,6 +141,7 @@ Interviews</h3>
 Publications</h3>
 </div>
 </div>
+<b>Jan 2014</b>&nbsp;- Oracle's Java Magazine: "<a href="http://mechanitis.blogspot.co.uk/2014/01/introduction-to-mongodb-and-big-data.html">Introduction to MongoDB and Big Data</a>"<br />
 <b>Nov 2012</b>&nbsp;- Oracle's Java Magazine: "<a href="http://www.oraclejavamagazine-digital.com/javamagazine/20121112/?pg=35&amp;pm=1&amp;u1=friend">Exploring Lambda Expressions for Java</a>"<br />
 <b>Mar 2012&nbsp;</b>– Oracle's Java Magazine: “<a href="http://mechanitis.blogspot.co.uk/2012/03/java-magazine-intro-to-disruptor-part.html">Sharing Data Without Contention</a>”<br />
 <div align="LEFT" style="margin-bottom: 0cm;">
