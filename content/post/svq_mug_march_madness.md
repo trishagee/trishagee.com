@@ -3,8 +3,8 @@
     "disqus_title" : "Sevilla MUG March Madness",
     "Title": "Sevilla MUG March Madness",
     "Pubdate": "2014-03-19",
-    "Keywords": ["mug", "events", "presentations"],
-    "Tags": ["mug", "events", "presentations"],
+    "Keywords": ["mug", "events", "presentations", "MongoDB"],
+    "Tags": ["mug", "events", "presentations", "MongoDB"],
     "Slug": "svq_mug_march_madness",
     "Section": "post"
 }
