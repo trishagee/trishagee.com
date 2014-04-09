@@ -120,6 +120,7 @@ Interviews</h3>
 <div align="LEFT" style="margin-bottom: 0cm;">
 <div align="LEFT" style="margin-bottom: 0cm;">
 <div align="LEFT" style="margin-bottom: 0cm;">
+<span class="Apple-style-span"><b>Mar 2014</b>&nbsp;–&nbsp;<a href="http://www.infoq.com/interviews/trisha-gee-mongdo-java8">InfoQ at QCon London</a> (video)</span><br />
 <span class="Apple-style-span"><b>Aug 2013</b>&nbsp;–&nbsp;<a href="http://mechanitis.blogspot.com.es/2013/08/interviewed-by-stephen-chin-about.html">JavaOne 2013 Preview</a> (video)</span><br />
 <span class="Apple-style-span"><b>Mar 2013</b>&nbsp;–&nbsp;<a href="http://parleys.com/play/516becfbe4b07b9cc6de32c3/chapter0/about">Devoxx UK</a> (video)</span><br />
 <span class="Apple-style-span"><b>Mar 2013</b>&nbsp;–&nbsp;<a href="http://shoreditchworks.com/women-tech-city-advice-solutions-sexism">Top Tips For Working With Techies</a> (text)</span><br />
