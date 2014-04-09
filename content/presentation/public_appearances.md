@@ -20,7 +20,7 @@ Presentations and Panels</h3>
 <b>11th Feb 2014</b>&nbsp;- JFokus: "What do you mean, Backwards Compatibility?"<br />
 <br />
 <br />
-<b>December 2013</b>&nbsp;- YOW Melbourne, Brisbane, Sydney: "Career Advice for Programmers" &amp; "What do you mean, backwards compatibility?"<br />
+<b>December 2013</b>&nbsp;- YOW Melbourne, Brisbane, Sydney: "<a href="http://yow.eventer.com/yow-2013-1080/career-advice-for-programmers-by-trisha-gee-1380">Career Advice for Programmers</a>" &amp; "<a href="http://yow.eventer.com/yow-2013-1080/what-do-you-mean-backwards-compatibility-by-trisha-gee-1398">What do you mean, backwards compatibility?</a>"<br />
 <b><br /></b>
 <b>23rd Nov 2013</b>&nbsp;- London Java Community Open Conference: "Keynote: Java, the Future, and You", "Novice Speaker's Clinic", "More Speaker Tips", "Career Advice for Programmers", "Intro to MongoDB", panel: "So you're a senior developer - what next?".<br />
 <b>21st Nov 2013</b> - Virtual JUG: "<a href="http://mechanitis.blogspot.co.uk/2013/11/first-presentation-at-virtual-jug.html">Design is a Process, not a Document</a>"<br />
