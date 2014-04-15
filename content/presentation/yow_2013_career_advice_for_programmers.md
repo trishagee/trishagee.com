@@ -1,5 +1,5 @@
 {
-    "disqus_url" : "http://trishagee.github.io/post/yow_2013_career_advice_for_programmers",
+    "disqus_url" : "http://trishagee.github.io/presentation/yow_2013_career_advice_for_programmers",
     "disqus_title" : "Career Advice for Programmers (YOW 2013)",
     "Title": "Career Advice for Programmers (YOW 2013)",
     "Pubdate": "2014-04-17",

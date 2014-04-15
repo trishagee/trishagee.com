@@ -1,5 +1,5 @@
 {
- "disqus_url" : "http://trishagee.github.io/post/interviewed_for_infoq_at_qcon_london/",
+ "disqus_url" : "http://trishagee.github.io/presentation/interviewed_for_infoq_at_qcon_london/",
  "disqus_title" : "Interviewed for InfoQ at QCon London",
  "Title": "Interviewed for InfoQ at QCon London",
  "Pubdate": "2012-05-18",

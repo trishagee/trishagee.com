@@ -1,5 +1,5 @@
 {
- "disqus_url" : "http://trishagee.github.io/post/interviewed_at_devoxx/",
+ "disqus_url" : "http://trishagee.github.io/presentation/interviewed_at_devoxx/",
  "disqus_title" : "Interviewed at Devoxx",
  "Title": "Interviewed at Devoxx",
  "Pubdate": "2013-01-12",

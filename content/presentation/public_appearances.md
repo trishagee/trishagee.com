@@ -1,13 +1,13 @@
 {
- "disqus_url" : "http://trishagee.github.io/post/public_appearances/",
- "disqus_title" : "Public Appearances",
- "Title": "Public Appearances",
+ "disqus_url" : "http://trishagee.github.io/presentation/public_appearances/",
+ "disqus_title" : "All Public Appearances",
+ "Title": "All Public Appearances",
  "Pubdate": "2013-12-19",
  "Updated": "2014-04-15",
  "Keywords": [],
  "Tags": [],
  "Slug": "public_appearances",
- "Section": "post"
+ "Section": "presentation"
 }
 For blatant self-publicity, I'm making a note of all the presentations, panels, interviews, articles and other public-facing events I've been involved in.<br />
 <br />
@@ -21,11 +21,11 @@ Presentations and Panels</h3>
 <br />
 <br />
 <b>December 2013</b>&nbsp;- YOW Melbourne, Brisbane, Sydney: ["Career Advice for Programmers"]
-(/presentation/yow_2013_career_advice_for_programmers/) &amp; "<a href="http://yow.eventer
-.com/yow-2013-1080/what-do-you-mean-backwards-compatibility-by-trisha-gee-1398">What do you mean, backwards compatibility?</a>"<br />
+(/presentation/yow_2013_career_advice_for_programmers/) &amp; ["What do you mean,
+backwards compatibility?"](/presentation/yow_2013_backwards)<br />
 <b><br /></b>
 <b>23rd Nov 2013</b>&nbsp;- London Java Community Open Conference: "Keynote: Java, the Future, and You", "Novice Speaker's Clinic", "More Speaker Tips", "Career Advice for Programmers", "Intro to MongoDB", panel: "So you're a senior developer - what next?".<br />
-<b>21st Nov 2013</b> - Virtual JUG: "<a href="http://mechanitis.blogspot.co.uk/2013/11/first-presentation-at-virtual-jug.html">Design is a Process, not a Document</a>"<br />
+<b>21st Nov 2013</b> - Virtual JUG: ["Design is a Process, not a Document"](/presentation/first_presentation_at_the_virtual_jug/)<br />
 <b><br /></b>
 <b>29th Oct 2013</b>&nbsp;- JAX London: "<a href="http://jaxenter.com/trisha-gee-design-is-a-process-not-an-artefact-49100.html">Design is a Process, not a Document</a>"<br />
 <b>28th Oct 2013</b>&nbsp;- LJC: "Speaker's Clinic: Public Speaking for Beginners"<br />

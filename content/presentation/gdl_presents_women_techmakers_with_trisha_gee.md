@@ -1,5 +1,5 @@
 {
- "disqus_url" : "http://trishagee.github.io/post/gdl_presents_women_techmakers_with_trisha_gee/",
+ "disqus_url" : "http://trishagee.github.io/presentation/gdl_presents_women_techmakers_with_trisha_gee/",
  "disqus_title" : "GDL Presents Women Techmakers with Trisha Gee",
  "Title": "GDL Presents Women Techmakers with Trisha Gee",
  "Pubdate": "2013-03-07",

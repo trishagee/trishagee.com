@@ -1,5 +1,5 @@
 {
-    "disqus_url" : "http://trishagee.github.io/post/infoq-interview-march-2014",
+    "disqus_url" : "http://trishagee.github.io/presentation/infoq-interview-march-2014",
     "disqus_title" : "Interviewed by Charles Humble for InfoQ",
     "Title": "Interviewed by Charles Humble for InfoQ",
     "Pubdate": "2014-04-15",

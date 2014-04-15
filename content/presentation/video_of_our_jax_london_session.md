@@ -1,5 +1,5 @@
 {
- "disqus_url" : "http://trishagee.github.io/post/video_of_our_jax_london_session/",
+ "disqus_url" : "http://trishagee.github.io/presentation/video_of_our_jax_london_session/",
  "disqus_title" : "Video of our JAX London session",
  "Title": "Video of our JAX London session",
  "Pubdate": "2011-12-05",
