@@ -3,8 +3,8 @@
  "disqus_title" : "Staying Ahead of the Curve",
  "Title": "Staying Ahead of the Curve",
  "Pubdate": "2013-02-20",
- "Keywords": ["jobs", "advice"],
- "Tags": ["jobs", "advice"],
+ "Keywords": ["jobs", "advice", "career"],
+ "Tags": ["jobs", "advice", "career"],
  "Slug": "staying_ahead_of_the_curve",
  "Section": "post"
 }

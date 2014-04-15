@@ -15,4 +15,4 @@ I think he brings out the best in me.
 
 You can see the video [here](http://www.infoq.com/interviews/trisha-gee-mongdo-java8#.U00BRMNMIC4.blogger).
 
-At the start of the interview we refer to the first time we met, which, if you're interested, [you can also watch](http://localhost:1313/post/interviewed_for_infoq_at_qcon_london/).
+At the start of the interview we refer to the first time we met, which, if you're interested, [you can also watch](/post/interviewed_for_infoq_at_qcon_london/).

@@ -3,8 +3,8 @@
  "disqus_title" : "How to make your CV Not Suck",
  "Title": "How to make your CV Not Suck",
  "Pubdate": "2011-12-21",
- "Keywords": ["lmax", "jobs", "advice"],
- "Tags": ["lmax", "jobs", "advice"],
+ "Keywords": ["lmax", "jobs", "advice", "career"],
+ "Tags": ["lmax", "jobs", "advice", "career"],
  "Slug": "how_to_make_your_cv_not_suck",
  "Section": "post"
 }
