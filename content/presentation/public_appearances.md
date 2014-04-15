@@ -2,7 +2,7 @@
  "disqus_url" : "http://trishagee.github.io/post/public_appearances/",
  "disqus_title" : "Public Appearances",
  "Title": "Public Appearances",
- "Pubdate": "2013-12-20",
+ "Pubdate": "2013-12-19",
  "Updated": "2014-03-20",
  "Keywords": [],
  "Tags": [],
