@@ -22,6 +22,8 @@ I'm just learning and used to relying heavily on auto-focus).
 
 Thanks very much to Stephen for visiting, and thank you to those who came, you're making me re-think the idea of running events at 
 weekends.
+
+[More photos](http://www.meetup.com/SVQJUG/photos/all_photos/?photoAlbumId=21306622) are on Meetup.
   
 ---
 
