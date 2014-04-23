@@ -9,8 +9,9 @@
     "Section": "post"
 }
 
-Last Saturday Mr Stephen Chin came to Sevilla on his crazy European tour to show us Lego and Robots.  This was our largest turnout yet 
-for a Java User Group event in Sevilla, which surprised me as it was on a weekend, and the weekend before the spectacle that is [Semana 
+Last Saturday [Mr Stephen Chin](http://steveonjava.com/) came to Sevilla on his crazy European tour to show us Lego and Robots.  This was our largest turnout yet 
+for a [Java User Group](http://www.meetup.com/SVQJUG/) event in Sevilla, which surprised me as it was on a weekend, 
+and the weekend before the spectacle that is [Semana 
 Santa](http://en.wikipedia.org/wiki/Holy_Week_in_Seville) [in Sevilla](http://youtu.be/I5rnDZGNJW8).
 <!--more-->
 
@@ -23,9 +24,4 @@ I'm just learning and used to relying heavily on auto-focus).
 Thanks very much to Stephen for visiting, and thank you to those who came, you're making me re-think the idea of running events at 
 weekends.
 
-[More photos](http://www.meetup.com/SVQJUG/photos/all_photos/?photoAlbumId=21306622) are on Meetup.
-  
----
-
-Por primera vez, un evento del Grupo Usario de Java en Sevilla es en video. Lo siento por la calidad de foco de la camara, 
-soy una principiante.
+Also there are [photos on Meetup](http://www.meetup.com/SVQJUG/photos/all_photos/?photoAlbumId=21306622).
