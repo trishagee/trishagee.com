@@ -12,6 +12,7 @@ When you're applying for a job at [LMAX](http://www.lmax.com/), your CV (or rés
 to call you for a technical phone screen.
 
 I'm going to let you into a secret. 
+<!--more-->
 
 I'm going to tell you the criteria I use when judging your CV.
 
