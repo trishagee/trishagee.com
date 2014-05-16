@@ -12,8 +12,8 @@ been involved in.
 
 ## Presentations and Panels
 ### 2014
-**7 Mar** - [Joy of Coding](/post/the_joy_of_coding): "HTML5, Angular.js, Groovy, Java,
-MongoDB all together - what could possibly go wrong?"  
+**7 Mar** - [Joy of Coding](/post/the_joy_of_coding): "[HTML5, Angular.js, Groovy, Java,
+MongoDB all together - what could possibly go wrong?](http://www.infoq.com/presentations/demo-java-javascript-mongodb)"  
 **6 Mar** - [QCon London](/post/qcon_london_2014): "HTML5, Angular.js, Groovy, Java,
 MongoDB all together - what could possibly go wrong?"  
  
