@@ -110,4 +110,7 @@ I'm off to try and fix my script. I've even thought of a way to not need local p
 when I have to do a release I'll only have to type a single command. It'll be worth a week or two to implement this if it saves me a week 
 like the last one.
 
-But first, that wine...
+But first, that wine...  
+  
+  
+<small>_No boyfriends or colleagues were harmed in the making of this post._</small>
