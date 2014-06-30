@@ -14,6 +14,7 @@ a part-chopped hard boiled egg and said "finish this, I need to have a shower". 
 doing - "this" needed finishing, and I needed to keep an eye on the fish.
 
 Fine.
+<!--more-->
 
 I've "paired" with him while we've made that salad before, and I can tell when a fish is burning.  How hard could it be?
 
