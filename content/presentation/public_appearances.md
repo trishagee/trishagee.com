@@ -12,6 +12,10 @@ been involved in.
 
 ## Presentations and Panels
 ### 2014
+**23 July** - OSCON: "HTML5, Angular.js, Groovy, Java, MongoDB all together - what could possibly go wrong?"  
+
+**20 May** - GOTO Chicago: "HTML5, Angular.js, Groovy, Java, MongoDB all together - what could possibly go wrong?"  
+
 **7 Mar** - [Joy of Coding](/post/the_joy_of_coding): "[HTML5, Angular.js, Groovy, Java,
 MongoDB all together - what could possibly go wrong?](http://www.infoq.com/presentations/demo-java-javascript-mongodb)"  
 **6 Mar** - [QCon London](/post/qcon_london_2014): "HTML5, Angular.js, Groovy, Java,
@@ -103,6 +107,7 @@ Meet a Mentor”; “[Why Open Source Your Secrets](/post/why_open_source_your_s
 **1 Jun** - LJC: "[Introduction to the Java Community Process](/post/first_public_appearance_caught_on_video)” 
  
 ## Interviews
+**May 2014** - [What Could Possibly Go Wrong? at GOTO Chicago](https://www.youtube.com/watch?v=sZee7lRAUF4) (video)  
 **Mar 2014** - [InfoQ at QCon London](http://www.infoq.com/interviews/trisha-gee-mongdo-java8) (video)  
 **Aug 2013** - [JavaOne 2013 Preview](/post/interviewed_by_stephen_chin_about_javaone_2013) (video)   
 **Mar 2013** - [Devoxx UK](http://parleys.com/play/516becfbe4b07b9cc6de32c3/chapter0/about) (video)  
