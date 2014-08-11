@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Mongodb on Trisha Gee </title>
+    <link>http://trishagee.github.io/tags/mongodb/index.xml</link>
+    <language>en-us</language>
+    <author>Trisha Gee</author>
+    <rights>Copyright (c) 2011 - 2014, Trisha Gee; all rights reserved.</rights>
+    <updated>Tue, 22 Apr 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>What do you mean, Backwards Compatibility? (YOW 2013)</title>
+      <link>http://trishagee.github.io/presentation/yow_2013_backwards</link>
+      <pubDate>Tue, 22 Apr 2014 00:00:00 UTC</pubDate>
+      <author>Trisha Gee</author>
+      <guid>http://trishagee.github.io/presentation/yow_2013_backwards</guid>
+      <description>&lt;p&gt;YOW recorded me, yet again, talking about the adventure that is the design of the new Java Driver for MongoDB.  This is the same talk I
+gave at &lt;a href=&#34;http://vimeo.com/72982916&#34;&gt;GeeCON&lt;/a&gt; and &lt;a href=&#34;http://www.parleys.com/play/51c325c3e4b0d38b54f4624f/chapter1/about&#34;&gt;DevoxxUK&lt;/a&gt;,
+with some updates based on our Journey So Far.  In it, I cover the architecture of the new driver and some of our current thoughts
+around where we want the API to go.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://yow.eventer.com/yow-2013-1080/what-do-you-mean-backwards-compatibility-by-trisha-gee-1398&#34;&gt;See the video here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interviewed by Charles Humble for InfoQ</title>
+      <link>http://trishagee.github.io/presentation/infoq-interview-march-2014</link>
+      <pubDate>Tue, 15 Apr 2014 00:00:00 UTC</pubDate>
+      <author>Trisha Gee</author>
+      <guid>http://trishagee.github.io/presentation/infoq-interview-march-2014</guid>
+      <description>&lt;p&gt;While I was at &lt;a href=&#34;http://localhost:1313/post/qcon_london_2014/&#34;&gt;QCon London&lt;/a&gt;, I was grabbed for an interview with InfoQ.  It&amp;rsquo;s always a pleasure to be interviewed by Charles,
+I think he brings out the best in me.&lt;/p&gt;
+
+&lt;p&gt;You can see the video &lt;a href=&#34;http://www.infoq.com/interviews/trisha-gee-mongdo-java8#.U00BRMNMIC4.blogger&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;At the start of the interview we refer to the first time we met, which, if you&amp;rsquo;re interested, &lt;a href=&#34;/post/interviewed_for_infoq_at_qcon_london/&#34;&gt;you can also watch&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sevilla MUG March Madness</title>
+      <link>http://trishagee.github.io/post/svq_mug_march_madness</link>
+      <pubDate>Wed, 19 Mar 2014 00:00:00 UTC</pubDate>
+      <author>Trisha Gee</author>
+      <guid>http://trishagee.github.io/post/svq_mug_march_madness</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh4.googleusercontent.com/-JVIgox7nGXo/UyjIQYxtiSI/AAAAAAAANc4/JV3lj4xwcgk/w919-h689-no/IMG_20140318_193758.jpg&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.meetup.com/Sevilla-MongoDB-User-Group/events/166679892/&#34;&gt;Last night&lt;/a&gt; the Sevilla MUG had our
+&lt;a href=&#34;http://www.lczajkowski.com/2014/02/19/march-madness-comes-to-a-city-near-you/&#34;&gt;March Madness&lt;/a&gt; event.  This was our largest event yet,
+with 36 people signed up.  Although the aim of March Madness is to have a MongoDB Engineer at all the user groups this month,
+that&amp;rsquo;s not such a big deal for us as I live here, so this was also the first event where I wasn&amp;rsquo;t the main attraction - &lt;a href=&#34;https://twitter.com/JvrBaena&#34;&gt;Javier&lt;/a&gt; gave a really great talk about the lessons learnt at &lt;a href=&#34;http://es.socialbro.com/&#34;&gt;SocialBro&lt;/a&gt; after using
+MongoDB in production for the last couple of years.&lt;/p&gt;
+
+&lt;p&gt;The slides for my introduction to Replica Sets and Sharding:&lt;/p&gt;
+
+&lt;div style=&#34;text-align: center&#34;&gt;
+ &lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/32480708&#34; width=&#34;427&#34; height=&#34;356&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt;
+&lt;/div&gt;
+ And the slides for the main attraction:
+
+&lt;div style=&#34;text-align: center&#34;&gt;
+ &lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/32464459&#34; width=&#34;427&#34; height=&#34;356&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt;
+ &lt;div style=&#34;margin-bottom:5px; font-size:small&#34;&gt; &lt;strong&gt; &lt;a href=&#34;https://www.slideshare
+ .net/fjavierbaena/sevilla-mongo-developers-group-mongodb-cmo-aprendimos-que-la-culpa-era-nuestra&#34; title=&#34;Sevilla Mongo Developers Group
+ - MongoDB: Cómo aprendimos que la culpa era nuestra&#34; target=&#34;_blank&#34;&gt;Cómo aprendimos que la culpa era nuestra&lt;/a&gt;
+ &lt;/strong&gt;from&lt;strong&gt;
+ &lt;a href=&#34;http://www.slideshare.net/fjavierbaena&#34; target=&#34;_blank&#34;&gt; Francisco Javier Baena Ríos&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The event went really well, everyone seemed engaged, and our first talk in Spanish seemed to encourage more questions than normal.  We
+were also in a new venue, and although I love the central location of our previous venue and the friendliness of the owners,
+the menu of the new location seemed to be a massive win.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh6.googleusercontent.com/-ESw5r9B24Hs/UyjHcM2M-DI/AAAAAAAANco/hBVhN4IMFew/w919-h689-no/IMG_20140318_220941.jpg&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sevilla MUG, first event</title>
+      <link>http://trishagee.github.io/post/sevilla_mug_first_event</link>
+      <pubDate>Fri, 31 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Trisha Gee</author>
+      <guid>http://trishagee.github.io/post/sevilla_mug_first_event</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;separator&#34; style=&#34;clear: both; text-align: center;&#34;&gt;&lt;a href=&#34;http://2.bp.blogspot.com/-ACbZtH8y3pM/Uurim-7CuNI/AAAAAAAAMfU/iR7aAjV3L_E/s1600/IMG_20140130_191433.jpg&#34; imageanchor=&#34;1&#34; style=&#34;margin-left: 1em; margin-right: 1em;&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;http://2.bp.blogspot.com/-ACbZtH8y3pM/Uurim-7CuNI/AAAAAAAAMfU/iR7aAjV3L_E/s1600/IMG_20140130_191433.jpg&#34; height=&#34;300&#34; width=&#34;400&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;Last night was the inaugural meeting of the Sevilla MongoDN User Group. &amp;nbsp;An event organised with just over 48 hours notice, in a city where I don&amp;rsquo;t speak the language and where even my best-connected contacts aren&amp;rsquo;t sure they&amp;rsquo;re fully plugged in to the tech scene.&lt;br /&gt;&lt;br /&gt;I&amp;rsquo;ll admit, I had some reservations:&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;a lightning talk? Will people come all that way for beer and 15 minutes of presentation?&lt;/li&gt;&lt;li&gt;in English? Whilst I&amp;rsquo;m desperately learning Spanish to get closer to presenting in Spanish, at this point I&amp;rsquo;m just not ready and have to hope people want to listen to me ramble in a foreign language&lt;/li&gt;&lt;li&gt;a MUG? Are people interested in joining a group that&amp;rsquo;s solely focussed on one technology, a technology that might not have adoption here or even interest?&lt;/li&gt;&lt;li&gt;two days notice? &amp;nbsp;Are you kidding? &amp;nbsp;I know people here like to figure out their plans at the last minute, but surely this is shooting ourselves in the foot before we even start.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;div class=&#34;separator&#34; style=&#34;clear: both; text-align: center;&#34;&gt;&lt;a href=&#34;http://4.bp.blogspot.com/-ZxzdtnwGKrk/UurinNqIjZI/AAAAAAAAMfQ/HHbZGT9MCV0/s1600/IMG_20140130_192137.jpg&#34; imageanchor=&#34;1&#34; style=&#34;margin-left: 1em; margin-right: 1em;&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;http://4.bp.blogspot.com/-ZxzdtnwGKrk/UurinNqIjZI/AAAAAAAAMfQ/HHbZGT9MCV0/s1600/IMG_20140130_192137.jpg&#34; height=&#34;300&#34; width=&#34;400&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;And then last night&amp;hellip; &amp;nbsp;The people&amp;hellip; they came. &amp;nbsp;On time. &amp;nbsp;And with their interesting stories and their varied backgrounds. &amp;nbsp;They listened, they asked questions, they wanted more.&lt;br /&gt;&lt;br /&gt;&lt;div class=&#34;separator&#34; style=&#34;clear: both; text-align: center;&#34;&gt;&lt;a href=&#34;http://4.bp.blogspot.com/-nU0wPfzI6DE/UuritPmwnDI/AAAAAAAAMfk/R49MwaxAzCk/s1600/IMG_20140130_201313.jpg&#34; imageanchor=&#34;1&#34; style=&#34;margin-left: 1em; margin-right: 1em;&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;http://4.bp.blogspot.com/-nU0wPfzI6DE/UuritPmwnDI/AAAAAAAAMfk/R49MwaxAzCk/s1600/IMG_20140130_201313.jpg&#34; height=&#34;300&#34; width=&#34;400&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;What a great event. &amp;nbsp;What an awesome city. &lt;br /&gt;&lt;br /&gt;I can&amp;rsquo;t wait for next month. &lt;br /&gt;&lt;br /&gt;&lt;div class=&#34;separator&#34; style=&#34;clear: both; text-align: center;&#34;&gt;&lt;a href=&#34;http://1.bp.blogspot.com/--soNKu8wqYU/UurimtUlxPI/AAAAAAAAMfM/wh3q9UV1FLQ/s1600/IMG_20140130_192632.jpg&#34; imageanchor=&#34;1&#34; style=&#34;margin-left: 1em; margin-right: 1em;&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;http://1.bp.blogspot.com/--soNKu8wqYU/UurimtUlxPI/AAAAAAAAMfM/wh3q9UV1FLQ/s1600/IMG_20140130_192632.jpg&#34; height=&#34;300&#34; width=&#34;400&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;separator&#34; style=&#34;clear: both; text-align: center;&#34;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&#34;separator&#34; style=&#34;clear: both; text-align: left;&#34;&gt;(Slides here, with usual caveats of them being pretty pointless on their own)&lt;/div&gt;&lt;iframe frameborder=&#34;0&#34; height=&#34;300&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34; scrolling=&#34;no&#34; src=&#34;http://www.slideshare.net/slideshow/embed_code/30654613&#34; width=&#34;376&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to MongoDB and Big Data</title>
+      <link>http://trishagee.github.io/post/introduction_to_mongodb_and_big_data</link>
+      <pubDate>Thu, 23 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Trisha Gee</author>
+      <guid>http://trishagee.github.io/post/introduction_to_mongodb_and_big_data</guid>
+      <description>&lt;p&gt;I wrote an article for the latest edition of Java Magazine which is an introduction to MongoDB for Java developers, and a nod to why it&amp;rsquo;s good in the &amp;ldquo;Big Data&amp;rdquo; space.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34;&gt;&lt;tbody&gt;&lt;tr style=&#34;background-color: #d2d2d2; height: 30px;&#34;&gt;&lt;td&gt;&lt;img align=&#34;left&#34; alt=&#34;www.oracle.com/javamagazine&#34; class=&#34;navlogo&#34; src=&#34;http://images-cdn.dashdigital.com/javamagazine/include/icons/navbar_logo.gif?lm=1390425195000&#34; height=&#34;28&#34; /&gt;&lt;/td&gt;&lt;td align=&#34;right&#34; style=&#34;color: #666666; font-family: tahoma, sans-serif; font-size: 11px; font-weight: bold; line-height: 15px; padding-right: 5px;&#34;&gt;&lt;span id=&#34;top_right_text&#34;&gt;Look inside &amp;gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&#34;background-color: white;&#34;&gt;&lt;td align=&#34;center&#34; colspan=&#34;2&#34; style=&#34;padding: 10px 0px;&#34;&gt;&lt;a href=&#34;http://www.oraclejavamagazine-digital.com/javamagazine/jan_feb_2014?pg=52&#34; onclick=&#34;window.open(&#39;http://www.oraclejavamagazine-digital.com/javamagazine/jan_feb_2014?pg=52&#39;,&#39;sharewidget&#39;,&#39;toolbar=no,menubar=no,resizable=yes,scrollbars=yes,left=0,top=0,width=&#39;+(screen.width-10)+&#39;,height=&#39;+(screen.height-10)+&#39;&#39;);return false;&#34; target=&#34;_blank&#34; title=&#34;View Magazine&#34;&gt;&lt;img alt=&#34;51&#34; border=&#34;0&#34; src=&#34;http://images-cdn.dashdigital.com/javamagazine/jan_feb_2014/data/imgpages/smtn/0052_vyvpwu.gif?lm=1390425195000&#34; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&#34;background-color: #d2d2d2; height: 30px;&#34;&gt;&lt;td align=&#34;center&#34; colspan=&#34;2&#34; style=&#34;color: #666666; font-family: tahoma, sans-serif; font-size: 11px; font-weight: bold; line-height: 15px;&#34;&gt;&lt;span id=&#34;bottom_text&#34;&gt;MongoDB and Big Data&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JAX London &amp; MongoDB Tutorial</title>
+      <link>http://trishagee.github.io/post/jax_london__mongodb_tutorial</link>
+      <pubDate>Thu, 07 Nov 2013 00:00:00 UTC</pubDate>
+      <author>Trisha Gee</author>
+      <guid>http://trishagee.github.io/post/jax_london__mongodb_tutorial</guid>
+      <description>&lt;p&gt;In previous years, JAX London would have been an easy, local conference to go to. This time it took me most of Sunday to get
+there, and not because of the &lt;a href=&#34;http://metro.co.uk/2013/10/27/its-ok-to-take-the-morning-off-work-if-storm-hits-michael-fish-says-so-4162862/&#34;&gt;Super Storm&lt;/a&gt;.  Still, that gave me the day to finish off the tutorial I was running there on
+Monday morning. Not that I would be so unprofessional as to leave preparing things until the last minute,
+oh no&amp;hellip;.&lt;/p&gt;
+
+&lt;p&gt;But as in previous years, the main benefit of this conference for me was meeting most of the usual suspects from the London Java
+Community. For example, presenting were: &lt;a href=&#34;http://jaxlondon.com/speakers/andy-piper&#34;&gt;Andy Piper&lt;/a&gt;; &lt;a
+href=&#34;http://jaxlondon.com/speakers/barry-cranford&#34;&gt;Barry Cranford&lt;/a&gt;; &lt;a href=&#34;http://jaxlondon.com/speakers/james-gough&#34;&gt;Jim
+Gough&lt;/a&gt;; &lt;a href=&#34;http://jaxlondon.com/speakers/peter-lawrey&#34;&gt;Peter Lawrey&lt;/a&gt;; &lt;a href=&#34;http://jaxlondon
+.com/speakers/sandro-mancuso&#34;&gt;Sandro Mancuso&lt;/a&gt;; &lt;a href=&#34;http://jaxlondon.com/speakers/simon-maple&#34;&gt;Simon Maple&lt;/a&gt;; &lt;a
+href=&#34;http://jaxlondon.com/speakers/martijn-verburg&#34;&gt;Martijn Verburg&lt;/a&gt;; &lt;a href=&#34;http://jaxlondon.com/speakers/john-oliver&#34;&gt;John
+Oliver&lt;/a&gt;: &lt;a href=&#34;http://jaxlondon.com/speakers/john-stevenson&#34;&gt;John Stevenson&lt;/a&gt;; &lt;a href=&#34;http://jaxlondon
+.com/speakers/richard-warburton&#34;&gt;Richard Warburton&lt;/a&gt;. The Community Night in particular also drew a lot of LJC members (including some
+ first-timers) to JAX, and it was a really good &amp;ldquo;networking opportunity&amp;rdquo; (i.e. chance to have free drinks,
+ catch up with friends and make new ones). I really enjoyed hanging out with everyone at JAX this year,
+ I was tempted to write the names of everyone I spoke to and had fun with because it really made my conference,
+ but I think that would make a very boring blog post. But if I spoke to you at JAX, you made my journey from Spain worthwhile,
+ thank you.&lt;br /&gt;&lt;br /&gt;As well as the LJC-types, there were some other really big name speakers too,
+ including MongoDB&amp;rsquo;s Chairman &lt;a href=&#34;http://jaxlondon.com/speakers/dwight-merriman&#34;&gt;Dwight Merriman&lt;/a&gt;. Highlights for me
+ were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ken Sipe&amp;rsquo;s &lt;a href=&#34;http://www.spockframework.org/&#34;&gt;Spock&lt;/a&gt; talk. I saw this at GeeCON and that&amp;rsquo;s why &lt;a href=&#34;/tags/spock/&#34;&gt;I started using
+Spock&lt;/a&gt; to test the MongoDB Java driver, but it was great to see it again and pick up some extra tips&lt;/li&gt;
+&lt;li&gt;Ted Neward&amp;rsquo;s talk at the community night about being a CTO at a startup. It was really interesting,
+and nice to see a realistic view of the difficulties of that role.&lt;/li&gt;
+&lt;li&gt;James Governor&amp;rsquo;s keynote on how Java got its Mojo back. I like seeing facts and figures to back up a viewpoint,
+and as you&amp;rsquo;d expect from the founder of an analyst firm, this talk was full of them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As James mentioned during his talk, the audience at JAX was, as in previous years, somewhat passive. I&amp;rsquo;m not really sure why,
+ as around 50% of the audience came from outside the UK so we can&amp;rsquo;t even blame English reticence. And in a conference full of
+ outspoken LJC-types, it seems an odd thing to have an unresponsive audience. Maybe it&amp;rsquo;s the venue,
+ the main hall in particular seems to lend itself to sitting quietly in the audience and expecting to be entertained.&lt;/p&gt;
+
+&lt;p&gt;I presented four times at JAX, because, well, on home turf one ends up doing more than one expects.
+ - Firstly, a tutorial on the new Java driver for MongoDB (more on this later);
+ - Secondly, a clinic for novice speakers. This was a lot of fun, and I think it was useful for everyone. I&amp;rsquo;d love to run
+ this again (I probably will at the &lt;a href=&#34;https://sites.google.com/site/ljcopenconference/&#34;&gt;LJC Open Conference&lt;/a&gt;). The aim
+ is to give new speakers confidence, not focus on details like building a slide deck.
+ - Thirdly, the third time out for my &amp;ldquo;Design is a Process, not a Document&amp;rdquo; presentation. It&amp;rsquo;s a relatively interactive
+ presentation, which I don&amp;rsquo;t think worked so well at JAX, but it&amp;rsquo;s a fun presentation to give.
+ - Finally, not only did I get roped into being on the panel for &amp;ldquo;How to start a community&amp;rdquo; at the community night, I ended up, somehow,
+  moderating it. That was fun, it was the first time I&amp;rsquo;ve been a moderator, it&amp;rsquo;s a role I usually avoid as moderators ought to
+  limit the amount of talking they do, which doesn&amp;rsquo;t sound fun to me.&lt;/p&gt;
+
+&lt;p&gt;The tutorial materials are &lt;a href=&#34;https://github.com/trishagee/mongodb-java-tutorial&#34;&gt;available on GitHub&lt;/a&gt;. I haven&amp;rsquo;t
+provided a lot of guidance on how to get started online, but the exercises are there, and the slides which present the concepts and
+suggest the order to tackle the tests in. If people use these materials, please feel free to give me feedback on them,
+but be nice - they were designed for an in-person tutorial, not an online one. But it is a good way to get a feel for the new
+MongoDB Java API (in its current, unfinished, state).&lt;/p&gt;
+
+&lt;p&gt;So, JAX London - great speakers, and a good conference to meet not only Londoners, but a lot of international people too.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The New 3.0 Java Driver for MongoDB</title>
+      <link>http://trishagee.github.io/resources/the_new_30_java_driver_for_mongodb</link>
+      <pubDate>Mon, 09 Sep 2013 00:00:00 UTC</pubDate>
+      <author>Trisha Gee</author>
+      <guid>http://trishagee.github.io/resources/the_new_30_java_driver_for_mongodb</guid>
+      <description>
+
+&lt;p&gt;Information related to the currently-ongoing effort to redesign the Java driver for MongoDB.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Links to more detailed information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.mongodb.org/post/58136652766/the-mongodb-java-driver-3-0&#34;&gt;Introduction to the changes in 3.0&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.mongodb.org/post/59769560940/the-mongodb-java-driver-3-0-whats-changing&#34;&gt;How to get started with the 3.0
+not-production-ready snapshot&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Presentations&lt;/h2&gt;
+
+&lt;p&gt;Presentation from GeeCON about the design of the new MongoDB driver.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe frameborder=&#34;0&#34; height=&#34;400&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34; scrolling=&#34;no&#34;
+src=&#34;http://www.slideshare.net/slideshow/embed_code/26024765&#34; width=&#34;476&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Also available in Chinese:
+&lt;iframe allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;356&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34; mozallowfullscreen=&#34;&#34; scrolling=&#34;no&#34; src=&#34;http://www.slideshare.net/slideshow/embed_code/24790295&#34; style=&#34;border-width: 1px 1px 0; border: 1px solid #CCC; margin-bottom: 5px;&#34; webkitallowfullscreen=&#34;&#34; width=&#34;427&#34;&gt; &lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to get started with the new MongoDB Java Driver</title>
+      <link>http://trishagee.github.io/post/how_to_get_started_with_the_new_mongodb_java_driver</link>
+      <pubDate>Sat, 31 Aug 2013 00:00:00 UTC</pubDate>
+      <author>Trisha Gee</author>
+      <guid>http://trishagee.github.io/post/how_to_get_started_with_the_new_mongodb_java_driver</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;http://blog.mongodb.org/post/59769560940/the-mongodb-java-driver-3-0-whats-changing&#34;&gt;second in my short series of blogs&lt;/a&gt; about the new Java driver is now available for your perusal. &amp;nbsp;In it, there&amp;rsquo;s some guidance on how to get started using the new driver, whether you want to use the new (unfinished) API, the existing &amp;ldquo;classic&amp;rdquo; API, or a blend of both.&lt;br /&gt;&lt;br /&gt;The post also shows that &lt;a href=&#34;http://www.gradle.org/&#34;&gt;Gradle&lt;/a&gt; is prettier than &lt;a href=&#34;http://maven.apache.org/&#34;&gt;Maven&lt;/a&gt;. &amp;nbsp;Sorry Maven.&lt;br /&gt;&lt;br /&gt;If you are going to play with the new driver, please read all the caveats carefully. &amp;nbsp;I know it looks a bit like the warnings on your prescription medicine, but it serves the same purpose. &amp;nbsp;Short version: the driver is not finished yet, and should not be used in production.&lt;br /&gt;&lt;br /&gt;We really want to hear your experiences with the driver - it is an open source project and &lt;a href=&#34;http://www.mongodb.org/&#34;&gt;MongoDB&lt;/a&gt; is very much driven by the community, we want to hear from you. &amp;nbsp;But only if you say nice things. &amp;nbsp;No, seriously, please tell us if you have problems, if functionality is missing, if your tests fail if you start to use it, etc etc etc.&lt;br /&gt;&lt;br /&gt;Go play.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interviewed by Stephen Chin about JavaOne 2013</title>
+      <link>http://trishagee.github.io/post/interviewed_by_stephen_chin_about_javaone_2013</link>
+      <pubDate>Fri, 30 Aug 2013 00:00:00 UTC</pubDate>
+      <author>Trisha Gee</author>
+      <guid>http://trishagee.github.io/post/interviewed_by_stephen_chin_about_javaone_2013</guid>
+      <description>&lt;p&gt;Yesterday &lt;a href=&#34;https://twitter.com/steveonjava&#34;&gt;Stephen Chin&lt;/a&gt;, one of Oracle&amp;rsquo;s Java Evangelists and the JavaOne content chair, interviewed me via a live stream about &lt;a href=&#34;http://www.oracle.com/javaone/index.html&#34;&gt;JavaOne&lt;/a&gt;, the &lt;a href=&#34;http://blog.mongodb.org/post/58136652766/the-mongodb-java-driver-3-0&#34;&gt;new MongoDB Java driver&lt;/a&gt;, and my plans to Change The World.&lt;br /&gt;&lt;br /&gt;It was a fun interview to do, and I really like the format of being interviewed over Skype and streaming my desktop. &amp;nbsp;There&amp;rsquo;s a slight (OK, 25 seconds, not really low latency) lag between the screen and the speaking which means it&amp;rsquo;s not a great platform for doing live demos, but I think I&amp;rsquo;d like to do more code demos in this way, if I can find a suitable platform.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;div style=&#34;text-align: center;&#34;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style=&#34;text-align: center;&#34;&gt;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/MdOHjGtITjo?list=PLX8CzqL3ArzXMvt5y8VHXKmr8gDC-xOH_&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The 3.0 Java Driver - Design Goals</title>
+      <link>http://trishagee.github.io/post/the_30_java_driver__design_goals</link>
+      <pubDate>Tue, 13 Aug 2013 00:00:00 UTC</pubDate>
+      <author>Trisha Gee</author>
+      <guid>http://trishagee.github.io/post/the_30_java_driver__design_goals</guid>
+      <description>&lt;p&gt;I feel slightly like a traitor to my own blog, as I&amp;rsquo;ve written a blog post for Somewhere Else. &amp;nbsp;I&amp;rsquo;ve written about the &lt;a href=&#34;http://blog.mongodb.org/post/58136652766/the-mongodb-java-driver-3-0&#34;&gt;design goals for the 3.0 MongoDB Java Driver&lt;/a&gt; in the official MongoDB blog (seems sensible, right?). &amp;nbsp;I&amp;rsquo;m not sure how I feel about cross-posting the entire contents, so I&amp;rsquo;m just linking you to them instead.&lt;br /&gt;&lt;br /&gt;Anyone who&amp;rsquo;s been to my Backwards Compatibility presentation this year might notice something familiar about the content. &amp;nbsp;The talk covers the design goals of the new driver, and this blog post will let you read them in your own time rather than having me fire them at you at 100mph.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How are you using MongoDB with Java?</title>
+      <link>http://trishagee.github.io/post/how_are_you_using_mongodb_with_java</link>
+      <pubDate>Thu, 16 May 2013 00:00:00 UTC</pubDate>
+      <author>Trisha Gee</author>
+      <guid>http://trishagee.github.io/post/how_are_you_using_mongodb_with_java</guid>
+      <description>&lt;p&gt;So, like one of my presentations, I have a question for you. &amp;nbsp;Actually, I have more than one question for you. &amp;nbsp;I&amp;rsquo;m not going to bother with survey monkey or whatever, I want to share the answers so please, answers in the comments:&lt;br /&gt;&lt;ol&gt;&lt;li&gt;Are you using the Java driver for MongoDB in your application?&lt;/li&gt;&lt;li&gt;Are you using the Java driver directly, or are you using a third party library like Morphia, Spring Data, the Scala driver, your own abstraction layer, etc?&lt;/li&gt;&lt;li&gt;If you&amp;rsquo;re using a third party library, why did you choose that over using the Java driver directly?&lt;/li&gt;&lt;li&gt;If you&amp;rsquo;re using the Java driver directly, what do you like about it?&amp;nbsp;&lt;/li&gt;&lt;li&gt;If you&amp;rsquo;re using the Java driver directly, are there any areas that give you pain? &amp;nbsp;Areas for improvement?&lt;/li&gt;&lt;li&gt;Which version of Java are you using?&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Feel free to leave additional information if you have it. &amp;nbsp;And this is a public blog, so if you&amp;rsquo;re really mean I&amp;rsquo;ll just delete your comment. &amp;nbsp;So there.&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Good overview of the NoSQL hype for Real Developers</title>
+      <link>http://trishagee.github.io/post/good_overview_of_the_nosql_hype_for_real_developers</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 UTC</pubDate>
+      <author>Trisha Gee</author>
+      <guid>http://trishagee.github.io/post/good_overview_of_the_nosql_hype_for_real_developers</guid>
+      <description>&lt;p&gt;Last Tuesday I went to a London Java Community talk which promised to debunk the hype around NoSQL. &amp;nbsp;Whether you&amp;rsquo;re already bought into a NoSQL technology, or you&amp;rsquo;re just wondering what all the noise is about, it&amp;rsquo;s worth an hour out of your day to see Akmal Chaudhri&amp;rsquo;s comprehensive summary of the technologies out there.&lt;br /&gt;&lt;br /&gt;Skillsmatter recorded the whole thing, as usual, so you can &lt;a href=&#34;http://skillsmatter.com/podcast/nosql/considerations-for-using-nosql-technology-on-your-next-it-project/mh-7167&#34;&gt;watch the presentation for yourself&lt;/a&gt;. &amp;nbsp;I promise neither I nor anyone else from 10gen paid him to mention MongoDB so much.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>It Depends</title>
+      <link>http://trishagee.github.io/post/it_depends</link>
+      <pubDate>Mon, 18 Mar 2013 00:00:00 UTC</pubDate>
+      <author>Trisha Gee</author>
+      <guid>http://trishagee.github.io/post/it_depends</guid>
+      <description>&lt;p&gt;Don&amp;rsquo;t you hate it when you ask a perfectly good question, and someone comes back with the answer &amp;ldquo;it depends&amp;rdquo;?&lt;br /&gt;&lt;br /&gt;It&amp;rsquo;s so frustrating to think that in a world of ones and zeros, people can&amp;rsquo;t give absolute answers and you can&amp;rsquo;t rely on &amp;ldquo;best practice&amp;rdquo;.&lt;br /&gt;&lt;br /&gt;It&amp;rsquo;s an answer I&amp;rsquo;ve given so many times, especially when someone asks about performance. &amp;nbsp;Well, I&amp;rsquo;ve had my&amp;nbsp;comeuppance. &amp;nbsp;The entire exercise of designing the new Java driver for &lt;a href=&#34;http://www.mongodb.org/&#34;&gt;MongoDB&lt;/a&gt; has been nothing but a series of questions where the answer is &amp;ldquo;it depends&amp;rdquo;:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Which Java version are our users, um, using?&lt;/li&gt;&lt;li&gt;Do people want an asynchronous driver?&lt;/li&gt;&lt;li&gt;How will they want to work with async?&lt;/li&gt;&lt;li&gt;Will they want to use async and synchronous method calls from the same application?&lt;/li&gt;&lt;li&gt;Do people typically use the Java driver directly, or do they use something that wraps it, like &lt;a href=&#34;https://code.google.com/p/morphia/&#34;&gt;Morphia&lt;/a&gt; or &lt;a href=&#34;http://www.springsource.org/spring-data&#34;&gt;Spring Data&lt;/a&gt;?&lt;/li&gt;&lt;li&gt;What&amp;rsquo;s most important for users in terms of performance? &amp;nbsp;Throughput? Latency? Consistent GC profile? Something else?&lt;/li&gt;&lt;li&gt;What sorts of operations are our users doing?&lt;/li&gt;&lt;li&gt;Do people usually update their driver and the server version at the same time?&lt;/li&gt;&lt;li&gt;Is it easier for them to update their driver version than their server version?&lt;/li&gt;&lt;li&gt;Do they use (or will they need) custom encoders and decoders?&lt;/li&gt;&lt;li&gt;When should we deprecate? &amp;nbsp;When should we remove deprecated methods?&lt;/li&gt;&lt;/ul&gt;&amp;hellip;and so on, and so forth.&lt;br /&gt;&lt;br /&gt;It&amp;rsquo;s such a change from the sort of development I&amp;rsquo;m used to: &amp;ldquo;the business&amp;rdquo; (a business analyst, a customer, a business owner) comes to you with a requirement, you ask a bunch of questions, preferably explaining the trade-offs that come with decisions or approaches, and then you and the team come up with a design and implement it. &amp;nbsp;If you&amp;rsquo;re agile, this is all done in a nice, iterative fashion, which hopefully leads to &amp;ldquo;the business&amp;rdquo; being happy, or at the very least to another series of stories/requirements to work on.&lt;br /&gt;&lt;br /&gt;The problem is that working on a library, particularly an open source library, is a completely different thing. &amp;nbsp;We don&amp;rsquo;t even know who our users are. &amp;nbsp;This statement is true for pretty much any web application, of course, but there at least you can (if you choose) use tools like analytics and &lt;a href=&#34;http://en.wikipedia.org/wiki/A/B_testing&#34;&gt;A/B testing&lt;/a&gt; to figure out what works for your users and what doesn&amp;rsquo;t.&lt;br /&gt;&lt;br /&gt;When your library is used for free by all kinds of different teams and companies, including organisations behind closed doors, you have no idea what&amp;rsquo;s being used, what works, what people like, what people don&amp;rsquo;t like. &amp;nbsp;The most visible feedback you have is when you see blog posts telling everyone how bad your product is.&lt;br /&gt;&lt;br /&gt;This makes the design exercise VERY difficult. &amp;nbsp;Take performance for example. &amp;nbsp;Having come from a high performance, low latency background, I&amp;rsquo;m desperate to have a very extensive suite of automated performance tests (and we do already have some). &amp;nbsp;But how do I design those, when I don&amp;rsquo;t know:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;What operations are typical for our users&lt;/li&gt;&lt;li&gt;Whether our users care more about latency or throughput, or mean latency vs the long tail, or GC pauses, etc&lt;/li&gt;&lt;li&gt;How much data customers tend to punt around&lt;/li&gt;&lt;li&gt;What the hardware or network topology looks like?&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;The number one lesson you learn when performance testing is to make your test environment as similar to production as possible. &amp;nbsp;How can we do that for all our customers?&lt;br /&gt;&lt;br /&gt;Well, we can&amp;rsquo;t. &amp;nbsp;Of course.&lt;br /&gt;&lt;br /&gt;What we can do is offer an easy way for our users to test it for themselves, with their own data, their own hardware, their own use-cases. &amp;nbsp;If we can provide some sort of hook into standard metrics, we could get users to plug into that and do what they needed. &amp;nbsp;In theory, as we get more examples of these standard metrics from a range of users, it will be easier for us to help them diagnose problems. &lt;br /&gt;&lt;br /&gt;What I discovered thinking about this problem is that I was asking the wrong question - it&amp;rsquo;s not &amp;ldquo;how do we test this?&amp;rdquo; but &amp;ldquo;how do we make it as easy as possible for users to test this in a production-like environment?&amp;rdquo;.&lt;br /&gt;&lt;br /&gt;My biggest headache has been backwards compatibility. &amp;nbsp;I&amp;rsquo;ve worked on plenty of systems where we&amp;rsquo;ve provided an API which has to be maintained in a friendly way for those who use it. &amp;nbsp;That&amp;rsquo;s tough enough - you have to be careful to only add methods, not to change signatures or remove them altogether. &amp;nbsp;But when your system is not simply an API to code against, but a library that runs within other people&amp;rsquo;s systems, this problem is even harder. &amp;nbsp;&lt;a href=&#34;http://qconlondon.com/london-2013/presentation/Parallel%20KEYNOTE:%208%20Lines%20of%20Code%20-%20Fleming%20Room%203rd%20Floor&#34;&gt;Greg Young talked at QCon&lt;/a&gt; about this problem from the developer&amp;rsquo;s point of view - every piece of code in your system, even if it&amp;rsquo;s a third party library, is your code. &amp;nbsp;Because you&amp;rsquo;re the one who&amp;rsquo;ll get called at three in the morning if your system falls over with a ConcurrentModificationException in some third party data structure. &lt;br /&gt;&lt;br /&gt;So as library developers, we have to not only provide excellent quality, well tested code, but we also have to let our baby go off and run in strange environments. &amp;nbsp;Ones that might not be running Oracle&amp;rsquo;s Java 1.7, ones that might contain other libraries that could clash with our own. &amp;nbsp;Have you ever looked at all the Maven dependencies in a large project? &amp;nbsp;You can end up with conflicting versions of common libraries (e.g. logging or &lt;a href=&#34;http://en.wikipedia.org/wiki/Dependency_injection&#34;&gt;DI&lt;/a&gt; frameworks) as every library you use pulls in dozens of libraries for itself.&lt;br /&gt;&lt;br /&gt;In our case then, we need to use as few dependencies as possible, and to write nice, clean, modern Java, whilst supporting older versions of Java. &amp;nbsp;What&amp;rsquo;s modern enough? &amp;nbsp;We know that some large organisations take a loooong time to upgrade to the latest versions of Java. &amp;nbsp;We currently support Java 5 and above, as 5 was a big enough change (and is old enough now) to be a good point to draw the line. &amp;nbsp;But what about Java 7, with its shiny new &lt;a href=&#34;http://docs.oracle.com/javase/7/docs/api/java/nio/channels/package-summary.html&#34;&gt;asynchronous channels&lt;/a&gt;? &amp;nbsp;That would be awesome for a driver like ours, an application that exists solely to connect to some server somewhere. &amp;nbsp;What about Java 8, with &lt;a href=&#34;http://mechanitis.blogspot.co.uk/2012/11/java-8-introduction-to-lambdas-article.html&#34;&gt;lambda goodness&lt;/a&gt; and a very appealing &lt;a href=&#34;http://cr.openjdk.java.net/~briangoetz/lambda/sotc3.html&#34;&gt;Stream interface&lt;/a&gt;, that supports (and encourages) a syntax that looks like it might work well for providing a fluent API for querying, I dunno, databases? &amp;nbsp;How do we make the most out of advances in modern Java, without alienating our existing users?&lt;br /&gt;&lt;br /&gt;And, of course, I haven&amp;rsquo;t even talked about actually changing the API. &amp;nbsp;The existing Java driver doesn&amp;rsquo;t even make use of generics. &amp;nbsp;How can we change our API to provide a more modern-looking interface, without either forcing all our users to make massive changes to their applications (and for what? &amp;nbsp;Their code already works), or adding so many new classes and methods that it becomes very difficult for new users to work out the Best Practice way of interacting with our driver?&lt;br /&gt;&lt;br /&gt;So, what can we do?&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Firstly we have to figure out which questions we have and what possible solutions exist.&lt;/li&gt;&lt;li&gt;Then we have to weigh up the pros and cons of each of the possible solutions.&lt;/li&gt;&lt;li&gt;Ideally we&amp;rsquo;d get feedback early and often from our users, from the community, about the approaches we&amp;rsquo;re taking.&lt;/li&gt;&lt;li&gt;Development would happen in parallel, in a nice, agile, way, to bring the best possible solution for everyone.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;What this all really means, though, is that the Shiny New Java Driver™ is not ready right now, and will not be ready immediately, despite the fact that we&amp;rsquo;ve already spent some time on its development, and considered all of those questions and more. &amp;nbsp;Right now, we&amp;rsquo;re starting to get feedback from the community - from users, and from committers (or people who would like to be committers). &amp;nbsp;Which means that I get to to go to more conferences and user groups, and talk about our problems when designing the new driver. &amp;nbsp;I&amp;rsquo;m hoping to get two things out of this, apart from more air miles:&lt;br /&gt;&lt;ol&gt;&lt;li&gt;Feedback from the community about our assumptions and the direction we&amp;rsquo;re taking.&lt;/li&gt;&lt;li&gt;Present to the development community some of the lessons we&amp;rsquo;ve learnt/are learning, in the hope that you can use them when approaching the design of your own applications.&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&amp;lt;gratuitous-conference-plug&amp;gt;You&amp;rsquo;ve already seen some of these &lt;a href=&#34;http://mechanitis.blogspot.co.uk/2013/03/upcoming-events.html&#34;&gt;upcoming events&lt;/a&gt;. &amp;nbsp;But in case you haven&amp;rsquo;t, &lt;a href=&#34;http://www.meetup.com/Londonjavacommunity/events/109032992/&#34;&gt;this Thursday I&amp;rsquo;ll be presenting at Skillsmatter&lt;/a&gt; on how we approached this design problem, and &lt;a href=&#34;http://www.devoxx.com/display/UK13/What+do+you+mean%2C+backwards+compatibility&#34;&gt;again at DevoxxUK next week&lt;/a&gt;.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;If you&amp;rsquo;re more interested in everything MongoDB, and want to get a much better look at what it is, how it works, how to design for it, then come to &lt;a href=&#34;http://www.10gen.com/events/mongodb-london-2013&#34;&gt;MongoDB London&lt;/a&gt;, where I am one of numerous presenters, all going into MongoDB specifics.&amp;lt;/gratuitous-conference-plug&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;So&amp;hellip; I&amp;rsquo;m afraid to say that even after this long post, even after bemoaning my own experiences of hearing &amp;ldquo;it depends&amp;rdquo;, I still don&amp;rsquo;t have an answer for you.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;But maybe I do. &amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&amp;ldquo;It Depends&amp;rdquo; means &amp;ldquo;you need to get more information in order to answer that question&amp;rdquo;. &amp;nbsp;And it&amp;rsquo;s our job as developers to ask the right questions to gather that information. &amp;nbsp;If the answer is &amp;ldquo;it depends&amp;rdquo;, you&amp;rsquo;re not asking the right question yet, or you&amp;rsquo;re not asking the right people. &amp;nbsp;So dig down, find out why you can&amp;rsquo;t answer the original question, and start iterating through your design process until you have answers that you can act upon.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;Easy. &amp;nbsp;Right&amp;hellip;?&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Webinar: Processing High Volume Data Feeds with MongoDB</title>
+      <link>http://trishagee.github.io/post/webinar_processing_high_volume_data_feeds_with_mongodb</link>
+      <pubDate>Wed, 05 Dec 2012 00:00:00 UTC</pubDate>
+      <author>Trisha Gee</author>
+      <guid>http://trishagee.github.io/post/webinar_processing_high_volume_data_feeds_with_mongodb</guid>
+      <description>&lt;p&gt;Hot on the heels of my very first &lt;a href=&#34;http://mechanitis.blogspot.co.uk/2012/11/my-first-official-mongodb-appearance.html&#34;&gt;MongoDB webinar,&lt;/a&gt;&amp;nbsp;I was&amp;hellip; encouraged&amp;hellip; to do another. &amp;nbsp;Here at &lt;a href=&#34;http://www.10gen.com/&#34;&gt;10gen&lt;/a&gt; we&amp;rsquo;ve been running a &lt;a href=&#34;http://www.10gen.com/presentations?application=154&amp;amp;programming_lang=All&amp;amp;speaker=&amp;amp;event=&amp;amp;language=All&#34;&gt;series of webinars&lt;/a&gt; around using MongoDB in the financial services domain. &amp;nbsp;Yesterday was the last in the series, and was presented in association with &lt;a href=&#34;http://www.c24.biz/&#34;&gt;C24&lt;/a&gt;&amp;nbsp;- &lt;a href=&#34;https://twitter.com/jtdavies&#34;&gt;John Davies&lt;/a&gt;, their CTO, did most of the talking, and demonstrated their product for automatically turning financial messages from one format into another.&lt;br /&gt;&lt;br /&gt;&lt;div style=&#34;text-align: center;&#34;&gt;&lt;img border=&#34;0&#34; height=&#34;0&#34; src=&#34;http://c.gigcount.com/wildfire/IMP/CXNID=2000002.11NXC/bT*xJmx*PTEzNTQ3MDI5OTY3MDMmcHQ9MTM1NDcwMzAwMTcwMSZwPSZkPSZnPTImbz*1YzY5N2U3NzliYTc*ODk3YWExOGFlZjQx/MGYzODA5NiZvZj*w.gif&#34; style=&#34;height: 0px; visibility: hidden; width: 0px;&#34; width=&#34;0&#34; /&gt;&lt;object allowfullscreen=&#34;true&#34; allownetworking=&#34;all&#34; allowscriptaccess=&#34;always&#34; data=&#34;http://www.kaltura.com/index.php/kwidget/wid/1_jiqyo6hd/uiconf_id/48501&#34; height=&#34;330&#34; id=&#34;kaltura_player_1354702995&#34; name=&#34;kaltura_player_1354702995&#34; type=&#34;application/x-shockwave-flash&#34; width=&#34;400&#34;&gt;&lt;param name=&#34;allowScriptAccess&#34; value=&#34;always&#34; /&gt;&lt;param name=&#34;allowNetworking&#34; value=&#34;all&#34; /&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34; /&gt;&lt;param name=&#34;bgcolor&#34; value=&#34;#000000&#34; /&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.kaltura.com/index.php/kwidget/wid/1_jiqyo6hd/uiconf_id/48501&#34;/&gt;&lt;param name=&#34;flashVars&#34; value=&#34;&#34;/&gt;&lt;a href=&#34;http://corp.kaltura.com&#34;&gt;video platform&lt;/a&gt;&lt;a href=&#34;http://corp.kaltura.com/video_platform/video_management&#34;&gt;video management&lt;/a&gt;&lt;a href=&#34;http://corp.kaltura.com/solutions/video_solution&#34;&gt;video solutions&lt;/a&gt;&lt;a href=&#34;http://corp.kaltura.com/video_platform/video_publishing&#34;&gt;video player&lt;/a&gt;&lt;/object&gt;&lt;/div&gt;&lt;i&gt;(Slides and webinar &lt;a href=&#34;http://www.10gen.com/presentations/webinar-processing-high-volume-data-feeds-mongodb-fix-fpml-and-swift-association-c24&#34;&gt;available here&lt;/a&gt; - and you&amp;rsquo;re not going deaf, the sound doesn&amp;rsquo;t start until about 3:44 into the video)&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;It was a fun webinar to do, actually - I didn&amp;rsquo;t know anything about &lt;a href=&#34;http://www.c24.biz/io-mongodb.html&#34;&gt;C24&amp;rsquo;s iO&lt;/a&gt; tool, so I learnt quite a lot as I watched John navigate the demo. &amp;nbsp;My background in trying to debug raw &lt;a href=&#34;http://www.fixprotocol.org/FIXimate3.0/&#34;&gt;FIX&lt;/a&gt; messages probably skewed my questions, I was definitely more interested in how to use it as a developer and what it could give me if I were doing production support. &amp;nbsp;It&amp;rsquo;s a dead interesting tool - I know for a fact that many organisations, banks in particular, spend a lot of time translating stuff from one format to another, before making some decision on on what to do with the contents. &amp;nbsp;This tool does all the heavy lifting so you can get on with the interesting stuff, the stuff your business actually needs you to do.&lt;br /&gt;&lt;br /&gt;In addition, as someone with more of an FS background than a &lt;a href=&#34;http://mechanitis.blogspot.co.uk/2012/10/nosql-is-stupid-name.html&#34;&gt;NoSQL&lt;/a&gt; background, I was very interested to hear how lots of the financial institutions are using &lt;a href=&#34;http://www.mongodb.org/&#34;&gt;MongoDB&lt;/a&gt; already - the combination of not having an enforced schema but supporting structured data, supported by fast execution, makes it a good fit for a lot of the problems they&amp;rsquo;re trying to solve. &amp;nbsp;Yes, it&amp;rsquo;s my job to say nice things about MongoDB, but when businesses are already using it because it makes their lives easier and meets their needs, it gives you a warm fuzzy feeling that the product must be doing something right.&lt;br /&gt;&lt;br /&gt;I enjoyed giving this webinar, I think if I do any more I will suggest pairing on it (we all know two heads are better than one, right?) - it gives you some of the feedback and energy that&amp;rsquo;s hard to get in a darkened room talking to a microphone.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My First Official MongoDB Appearance</title>
+      <link>http://trishagee.github.io/post/my_first_official_mongodb_appearance</link>
+      <pubDate>Fri, 30 Nov 2012 00:00:00 UTC</pubDate>
+      <author>Trisha Gee</author>
+      <guid>http://trishagee.github.io/post/my_first_official_mongodb_appearance</guid>
+      <description>&lt;p&gt;Yesterday I had the &lt;strike&gt;nerve-wracking&lt;/strike&gt; &lt;strike&gt;dubious&lt;/strike&gt; &lt;strike&gt;alarming&lt;/strike&gt;&amp;nbsp;great pleasure of presenting my first official &lt;a href=&#34;http://www.mongodb.org/&#34;&gt;MongoDB&lt;/a&gt;-shaped talk. &amp;nbsp;This was in the form of a webinar, which is an interesting and different format.&lt;br /&gt;&lt;br /&gt;I naïvely assumed it would be like a presentation but without the visible hand-waving, but it isn&amp;rsquo;t really. &amp;nbsp;For a start, you can&amp;rsquo;t easily poll the audience to find out what their level of experience is, and taking questions is quite tricky, even with the technology to support it. &amp;nbsp;Also, because you&amp;rsquo;re not standing in front of people, I think the &amp;ldquo;rules&amp;rdquo; around making sure your slides don&amp;rsquo;t distract from you are a little different - it strikes me that webinars are more like a set of slides with a narrator and a fixed time, than a presenter with a set of slides to emphasise points. &amp;nbsp;This puts the medium in an awkward position between an &lt;a href=&#34;http://martinfowler.com/bliki/Infodeck.html&#34;&gt;infodeck&lt;/a&gt; and a talk (yes, I am reading &lt;a href=&#34;http://www.amazon.com/gp/product/0321820800/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0321820800&amp;amp;linkCode=as2&amp;amp;tag=trissramb-20&#34;&gt;Presentation Patterns&lt;/a&gt; at the moment, and it&amp;rsquo;s making me very&amp;nbsp;conscious&amp;nbsp;of all my slides and presentations). &amp;nbsp;So my slides are more info-heavy than my usual style.&lt;br /&gt;&lt;br /&gt;I actually learnt a lot while I was putting together this webinar, so whether you&amp;rsquo;re completely new to NoSQL/MongoDB, or just starting to use it from a language running on the JVM, it&amp;rsquo;s worth checking out.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;div style=&#34;align: center;&#34;&gt;&lt;div style=&#34;text-align: center;&#34;&gt;&lt;img border=&#34;0&#34; height=&#34;0&#34; src=&#34;http://c.gigcount.com/wildfire/IMP/CXNID=2000002.11NXC/bT*xJmx*PTEzNTQyNzA*MzcxMDEmcHQ9MTM1NDI3MDQ1MTI3MyZwPSZkPSZnPTImbz*1YzY5N2U3NzliYTc*ODk3YWExOGFlZjQx/MGYzODA5NiZvZj*w.gif&#34; style=&#34;height: 0px; visibility: hidden; width: 0px;&#34; width=&#34;0&#34; /&gt;&lt;object allowfullscreen=&#34;true&#34; allownetworking=&#34;all&#34; allowscriptaccess=&#34;always&#34; data=&#34;http://www.kaltura.com/index.php/kwidget/wid/1_w86rx78e/uiconf_id/48501&#34; height=&#34;330&#34; id=&#34;kaltura_player_1354270434&#34; name=&#34;kaltura_player_1354270434&#34; type=&#34;application/x-shockwave-flash&#34; width=&#34;400&#34;&gt;&lt;param name=&#34;allowScriptAccess&#34; value=&#34;always&#34; /&gt;&lt;param name=&#34;allowNetworking&#34; value=&#34;all&#34; /&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34; /&gt;&lt;param name=&#34;bgcolor&#34; value=&#34;#000000&#34; /&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.kaltura.com/index.php/kwidget/wid/1_w86rx78e/uiconf_id/48501&#34;/&gt;&lt;param name=&#34;flashVars&#34; value=&#34;&#34;/&gt;&lt;a href=&#34;http://corp.kaltura.com&#34;&gt;video platform&lt;/a&gt;&lt;a href=&#34;http://corp.kaltura.com/video_platform/video_management&#34;&gt;video management&lt;/a&gt;&lt;a href=&#34;http://corp.kaltura.com/solutions/video_solution&#34;&gt;video solutions&lt;/a&gt;&lt;a href=&#34;http://corp.kaltura.com/video_platform/video_publishing&#34;&gt;video player&lt;/a&gt;&lt;/object&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;br /&gt;(Or see the &lt;a href=&#34;http://is.gd/2OEqQf&#34;&gt;webinar and slides together&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;As always, feedback very much appreciated - I think there&amp;rsquo;s great material in here, but I already have some ideas for improvement.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
